@@ -1,0 +1,1001 @@
+Date,Day,Product,Category,Quantity,Unit Price,Total Sales,Payment Method,City,Customer Type
+2024-02-05,Monday,Daisy Basket,Baskets,1,20,20,Card,Chicago,Returning
+2024-06-23,Sunday,Sunflower Vase,Vases,1,30,30,Card,Houston,New
+2024-05-06,Monday,Orchid Basket,Baskets,1,40,40,Online,Los Angeles,Returning
+2024-05-13,Monday,Sunflower Vase,Vases,1,30,30,Cash,Chicago,Returning
+2024-04-16,Tuesday,Hydrangea Vase,Vases,3,33,99,Card,Chicago,Returning
+2024-12-12,Thursday,Hydrangea Vase,Vases,2,33,66,Online,Atlanta,Returning
+2024-05-27,Monday,Orchid Basket,Baskets,1,40,40,Cash,Seattle,New
+2024-03-15,Friday,Peony Bouquet,Bouquets,2,35,70,Card,San Francisco,Returning
+2024-04-23,Tuesday,Rose Bouquet,Bouquets,2,25,50,Card,San Francisco,Returning
+2024-12-18,Wednesday,Peony Bouquet,Bouquets,2,35,70,Online,Seattle,New
+2024-03-13,Wednesday,Orchid Basket,Baskets,2,40,80,Online,San Francisco,Returning
+2024-02-17,Saturday,Tulip Bunch,Bunches,1,15,15,Online,Seattle,Returning
+2024-05-19,Sunday,Carnation Bunch,Bunches,5,12,60,Cash,Seattle,Returning
+2024-08-28,Wednesday,Sunflower Vase,Vases,2,30,60,Online,New York,Returning
+2024-03-24,Sunday,Sunflower Vase,Vases,2,30,60,Cash,Boston,Returning
+2024-02-13,Tuesday,Peony Bouquet,Bouquets,1,35,35,Cash,Houston,Returning
+2024-06-14,Friday,Mixed Bouquet,Bouquets,1,28,28,Cash,Atlanta,Returning
+2024-10-05,Saturday,Lily Bunch,Bunches,3,18,54,Card,New York,Returning
+2024-07-27,Saturday,Orchid Basket,Baskets,5,40,200,Online,Dallas,New
+2024-10-06,Sunday,Peony Bouquet,Bouquets,4,35,140,Card,Seattle,Returning
+2024-05-06,Monday,Orchid Basket,Baskets,4,40,160,Online,Dallas,Returning
+2024-05-08,Wednesday,Rose Bouquet,Bouquets,4,25,100,Online,Boston,Returning
+2024-02-15,Thursday,Mixed Bouquet,Bouquets,1,28,28,Cash,Los Angeles,New
+2024-06-28,Friday,Peony Bouquet,Bouquets,2,35,70,Card,Los Angeles,Returning
+2024-10-28,Monday,Sunflower Vase,Vases,3,30,90,Card,Boston,New
+2024-11-19,Tuesday,Mixed Bouquet,Bouquets,1,28,28,Card,San Francisco,Returning
+2024-08-17,Saturday,Orchid Basket,Baskets,3,40,120,Online,Miami,New
+2024-02-02,Friday,Lily Bunch,Bunches,1,18,18,Cash,Dallas,Returning
+2024-08-14,Wednesday,Sunflower Vase,Vases,3,30,90,Online,Miami,New
+2024-01-08,Monday,Peony Bouquet,Bouquets,3,35,105,Card,Boston,New
+2024-10-01,Tuesday,Orchid Basket,Baskets,1,40,40,Online,Miami,Returning
+2024-12-13,Friday,Hydrangea Vase,Vases,3,33,99,Card,Miami,New
+2024-12-03,Tuesday,Carnation Bunch,Bunches,1,12,12,Card,Los Angeles,Returning
+2024-05-03,Friday,Tulip Bunch,Bunches,2,15,30,Online,Atlanta,Returning
+2024-12-06,Friday,Lily Bunch,Bunches,1,18,18,Online,Miami,Returning
+2024-12-06,Friday,Daisy Basket,Baskets,3,20,60,Online,Atlanta,Returning
+2024-05-08,Wednesday,Sunflower Vase,Vases,1,30,30,Card,San Francisco,New
+2024-12-01,Sunday,Tulip Bunch,Bunches,2,15,30,Card,Atlanta,Returning
+2024-03-25,Monday,Lily Bunch,Bunches,1,18,18,Card,New York,Returning
+2024-02-05,Monday,Hydrangea Vase,Vases,1,33,33,Online,Chicago,Returning
+2024-07-11,Thursday,Lily Bunch,Bunches,1,18,18,Online,Chicago,Returning
+2024-05-04,Saturday,Daisy Basket,Baskets,1,20,20,Online,Houston,New
+2024-12-03,Tuesday,Peony Bouquet,Bouquets,1,35,35,Card,Dallas,Returning
+2024-09-15,Sunday,Daisy Basket,Baskets,2,20,40,Online,Seattle,New
+2024-08-25,Sunday,Lily Bunch,Bunches,1,18,18,Card,Chicago,Returning
+2024-12-11,Wednesday,Orchid Basket,Baskets,2,40,80,Online,Chicago,Returning
+2024-12-11,Wednesday,Carnation Bunch,Bunches,1,12,12,Card,Boston,New
+2024-05-21,Tuesday,Mixed Bouquet,Bouquets,3,28,84,Card,Boston,Returning
+2024-02-17,Saturday,Mixed Bouquet,Bouquets,4,28,112,Card,New York,Returning
+2024-05-20,Monday,Rose Bouquet,Bouquets,4,25,100,Card,Chicago,Returning
+2024-08-13,Tuesday,Mixed Bouquet,Bouquets,2,28,56,Online,Los Angeles,Returning
+2024-07-24,Wednesday,Carnation Bunch,Bunches,1,12,12,Card,Miami,Returning
+2024-01-24,Wednesday,Hydrangea Vase,Vases,3,33,99,Online,Houston,Returning
+2024-05-27,Monday,Orchid Basket,Baskets,4,40,160,Online,Boston,Returning
+2024-03-01,Friday,Peony Bouquet,Bouquets,3,35,105,Online,Atlanta,New
+2024-06-09,Sunday,Orchid Basket,Baskets,3,40,120,Card,Dallas,Returning
+2024-09-22,Sunday,Mixed Bouquet,Bouquets,1,28,28,Cash,Dallas,Returning
+2024-05-17,Friday,Mixed Bouquet,Bouquets,3,28,84,Cash,Chicago,Returning
+2024-01-17,Wednesday,Mixed Bouquet,Bouquets,4,28,112,Card,Dallas,Returning
+2024-11-09,Saturday,Sunflower Vase,Vases,2,30,60,Cash,Atlanta,Returning
+2024-02-28,Wednesday,Sunflower Vase,Vases,3,30,90,Card,San Francisco,Returning
+2024-12-12,Thursday,Tulip Bunch,Bunches,3,15,45,Card,Dallas,Returning
+2024-06-07,Friday,Mixed Bouquet,Bouquets,2,28,56,Online,New York,Returning
+2024-05-26,Sunday,Rose Bouquet,Bouquets,1,25,25,Card,New York,Returning
+2024-12-16,Monday,Lily Bunch,Bunches,2,18,36,Card,Seattle,New
+2024-02-28,Wednesday,Daisy Basket,Baskets,1,20,20,Card,San Francisco,Returning
+2024-02-15,Thursday,Tulip Bunch,Bunches,3,15,45,Cash,Boston,New
+2024-06-13,Thursday,Orchid Basket,Baskets,1,40,40,Online,Houston,Returning
+2024-02-22,Thursday,Hydrangea Vase,Vases,1,33,33,Card,Dallas,New
+2024-03-03,Sunday,Lily Bunch,Bunches,4,18,72,Card,San Francisco,New
+2024-05-23,Thursday,Carnation Bunch,Bunches,3,12,36,Card,Seattle,Returning
+2024-02-16,Friday,Lily Bunch,Bunches,3,18,54,Card,Atlanta,Returning
+2024-07-11,Thursday,Rose Bouquet,Bouquets,2,25,50,Online,Dallas,Returning
+2024-02-27,Tuesday,Peony Bouquet,Bouquets,5,35,175,Card,San Francisco,Returning
+2024-06-06,Thursday,Hydrangea Vase,Vases,1,33,33,Card,Atlanta,Returning
+2024-03-15,Friday,Tulip Bunch,Bunches,3,15,45,Card,San Francisco,Returning
+2024-05-09,Thursday,Lily Bunch,Bunches,1,18,18,Card,Dallas,Returning
+2024-02-28,Wednesday,Orchid Basket,Baskets,2,40,80,Cash,Chicago,Returning
+2024-11-27,Wednesday,Daisy Basket,Baskets,2,20,40,Card,Seattle,Returning
+2024-12-11,Wednesday,Rose Bouquet,Bouquets,2,25,50,Online,Atlanta,New
+2024-04-25,Thursday,Orchid Basket,Baskets,1,40,40,Card,Dallas,Returning
+2024-11-04,Monday,Orchid Basket,Baskets,4,40,160,Cash,Los Angeles,Returning
+2024-05-12,Sunday,Orchid Basket,Baskets,2,40,80,Cash,Atlanta,Returning
+2024-05-20,Monday,Orchid Basket,Baskets,4,40,160,Card,Dallas,Returning
+2024-02-03,Saturday,Tulip Bunch,Bunches,3,15,45,Online,Miami,Returning
+2024-02-02,Friday,Carnation Bunch,Bunches,3,12,36,Card,Chicago,New
+2024-12-19,Thursday,Hydrangea Vase,Vases,2,33,66,Cash,Houston,New
+2024-01-08,Monday,Hydrangea Vase,Vases,1,33,33,Online,Seattle,Returning
+2024-02-01,Thursday,Lily Bunch,Bunches,4,18,72,Card,Houston,New
+2024-11-02,Saturday,Tulip Bunch,Bunches,1,15,15,Card,New York,New
+2024-12-22,Sunday,Peony Bouquet,Bouquets,1,35,35,Online,Dallas,Returning
+2024-05-12,Sunday,Hydrangea Vase,Vases,1,33,33,Card,San Francisco,Returning
+2024-09-18,Wednesday,Orchid Basket,Baskets,4,40,160,Cash,Chicago,Returning
+2024-02-26,Monday,Peony Bouquet,Bouquets,1,35,35,Cash,Miami,Returning
+2024-08-10,Saturday,Lily Bunch,Bunches,2,18,36,Card,New York,Returning
+2024-12-27,Friday,Rose Bouquet,Bouquets,4,25,100,Online,Los Angeles,New
+2024-09-02,Monday,Rose Bouquet,Bouquets,3,25,75,Card,Atlanta,Returning
+2024-12-11,Wednesday,Lily Bunch,Bunches,1,18,18,Cash,Dallas,Returning
+2024-05-13,Monday,Mixed Bouquet,Bouquets,2,28,56,Online,Seattle,Returning
+2024-12-19,Thursday,Daisy Basket,Baskets,1,20,20,Card,Los Angeles,Returning
+2024-05-09,Thursday,Lily Bunch,Bunches,2,18,36,Cash,Seattle,Returning
+2024-09-14,Saturday,Tulip Bunch,Bunches,2,15,30,Card,Atlanta,New
+2024-08-10,Saturday,Hydrangea Vase,Vases,2,33,66,Card,Houston,Returning
+2024-10-25,Friday,Orchid Basket,Baskets,2,40,80,Online,Miami,Returning
+2024-07-11,Thursday,Daisy Basket,Baskets,4,20,80,Cash,Miami,Returning
+2024-02-25,Sunday,Mixed Bouquet,Bouquets,3,28,84,Card,Dallas,Returning
+2024-02-04,Sunday,Peony Bouquet,Bouquets,2,35,70,Card,Seattle,Returning
+2024-05-03,Friday,Sunflower Vase,Vases,5,30,150,Card,New York,Returning
+2024-09-18,Wednesday,Daisy Basket,Baskets,3,20,60,Cash,Houston,New
+2024-04-22,Monday,Hydrangea Vase,Vases,2,33,66,Card,Miami,New
+2024-05-19,Sunday,Mixed Bouquet,Bouquets,1,28,28,Cash,Boston,Returning
+2024-06-07,Friday,Peony Bouquet,Bouquets,2,35,70,Card,Dallas,New
+2024-02-21,Wednesday,Rose Bouquet,Bouquets,2,25,50,Card,Houston,Returning
+2024-12-18,Wednesday,Sunflower Vase,Vases,1,30,30,Card,Boston,Returning
+2024-02-14,Wednesday,Rose Bouquet,Bouquets,4,25,100,Cash,Houston,Returning
+2024-08-15,Thursday,Rose Bouquet,Bouquets,4,25,100,Card,Dallas,New
+2024-05-06,Monday,Peony Bouquet,Bouquets,4,35,140,Card,Houston,Returning
+2024-12-13,Friday,Rose Bouquet,Bouquets,4,25,100,Online,Chicago,Returning
+2024-12-11,Wednesday,Mixed Bouquet,Bouquets,2,28,56,Cash,Boston,Returning
+2024-12-10,Tuesday,Tulip Bunch,Bunches,2,15,30,Online,Boston,Returning
+2024-05-23,Thursday,Rose Bouquet,Bouquets,3,25,75,Cash,Chicago,Returning
+2024-12-24,Tuesday,Peony Bouquet,Bouquets,2,35,70,Cash,Seattle,New
+2024-05-07,Tuesday,Carnation Bunch,Bunches,2,12,24,Card,Seattle,New
+2024-12-06,Friday,Hydrangea Vase,Vases,3,33,99,Card,Dallas,Returning
+2024-10-04,Friday,Daisy Basket,Baskets,3,20,60,Cash,Boston,Returning
+2024-02-19,Monday,Rose Bouquet,Bouquets,1,25,25,Card,Dallas,Returning
+2024-05-11,Saturday,Hydrangea Vase,Vases,2,33,66,Card,San Francisco,Returning
+2024-10-21,Monday,Peony Bouquet,Bouquets,3,35,105,Card,Miami,Returning
+2024-05-15,Wednesday,Carnation Bunch,Bunches,3,12,36,Card,Seattle,Returning
+2024-11-13,Wednesday,Carnation Bunch,Bunches,3,12,36,Card,Dallas,New
+2024-10-01,Tuesday,Tulip Bunch,Bunches,3,15,45,Card,Seattle,New
+2024-11-21,Thursday,Carnation Bunch,Bunches,2,12,24,Card,Houston,New
+2024-02-07,Wednesday,Rose Bouquet,Bouquets,5,25,125,Card,Boston,Returning
+2024-10-01,Tuesday,Carnation Bunch,Bunches,1,12,12,Online,Houston,Returning
+2024-02-08,Thursday,Sunflower Vase,Vases,1,30,30,Card,Seattle,Returning
+2024-10-20,Sunday,Peony Bouquet,Bouquets,1,35,35,Online,Atlanta,Returning
+2024-07-08,Monday,Orchid Basket,Baskets,3,40,120,Card,Miami,Returning
+2024-12-13,Friday,Carnation Bunch,Bunches,2,12,24,Card,Miami,Returning
+2024-09-23,Monday,Daisy Basket,Baskets,4,20,80,Card,Houston,New
+2024-05-19,Sunday,Mixed Bouquet,Bouquets,2,28,56,Card,Seattle,New
+2024-02-14,Wednesday,Sunflower Vase,Vases,4,30,120,Cash,Chicago,Returning
+2024-11-25,Monday,Daisy Basket,Baskets,2,20,40,Card,San Francisco,Returning
+2024-05-14,Tuesday,Lily Bunch,Bunches,1,18,18,Card,Miami,Returning
+2024-02-11,Sunday,Rose Bouquet,Bouquets,1,25,25,Card,Boston,Returning
+2024-02-26,Monday,Sunflower Vase,Vases,2,30,60,Cash,Atlanta,Returning
+2024-12-13,Friday,Hydrangea Vase,Vases,1,33,33,Card,New York,Returning
+2024-05-26,Sunday,Rose Bouquet,Bouquets,5,25,125,Card,Chicago,Returning
+2024-02-10,Saturday,Daisy Basket,Baskets,3,20,60,Card,Dallas,Returning
+2024-04-26,Friday,Rose Bouquet,Bouquets,1,25,25,Cash,Dallas,Returning
+2024-12-19,Thursday,Daisy Basket,Baskets,2,20,40,Cash,Dallas,Returning
+2024-02-03,Saturday,Mixed Bouquet,Bouquets,2,28,56,Online,San Francisco,Returning
+2024-09-06,Friday,Orchid Basket,Baskets,5,40,200,Card,San Francisco,Returning
+2024-12-25,Wednesday,Carnation Bunch,Bunches,1,12,12,Cash,Miami,New
+2024-08-18,Sunday,Tulip Bunch,Bunches,2,15,30,Card,Los Angeles,Returning
+2024-05-12,Sunday,Peony Bouquet,Bouquets,3,35,105,Card,Atlanta,Returning
+2024-05-27,Monday,Peony Bouquet,Bouquets,2,35,70,Online,San Francisco,Returning
+2024-05-09,Thursday,Peony Bouquet,Bouquets,2,35,70,Online,Chicago,New
+2024-05-03,Friday,Sunflower Vase,Vases,5,30,150,Card,Houston,Returning
+2024-10-18,Friday,Mixed Bouquet,Bouquets,1,28,28,Online,New York,New
+2024-07-25,Thursday,Rose Bouquet,Bouquets,2,25,50,Card,San Francisco,New
+2024-05-05,Sunday,Lily Bunch,Bunches,3,18,54,Card,New York,Returning
+2024-05-01,Wednesday,Daisy Basket,Baskets,2,20,40,Card,Boston,Returning
+2024-12-03,Tuesday,Orchid Basket,Baskets,2,40,80,Online,New York,Returning
+2024-12-15,Sunday,Carnation Bunch,Bunches,2,12,24,Card,Los Angeles,New
+2024-05-09,Thursday,Daisy Basket,Baskets,2,20,40,Online,Atlanta,New
+2024-07-15,Monday,Daisy Basket,Baskets,1,20,20,Cash,Miami,New
+2024-03-11,Monday,Rose Bouquet,Bouquets,2,25,50,Online,Seattle,Returning
+2024-05-07,Tuesday,Tulip Bunch,Bunches,1,15,15,Online,Los Angeles,New
+2024-11-23,Saturday,Rose Bouquet,Bouquets,1,25,25,Online,Houston,Returning
+2024-03-20,Wednesday,Mixed Bouquet,Bouquets,4,28,112,Card,Boston,New
+2024-02-11,Sunday,Daisy Basket,Baskets,1,20,20,Cash,Los Angeles,Returning
+2024-05-25,Saturday,Mixed Bouquet,Bouquets,1,28,28,Card,Miami,Returning
+2024-12-22,Sunday,Tulip Bunch,Bunches,2,15,30,Online,Atlanta,Returning
+2024-06-24,Monday,Sunflower Vase,Vases,1,30,30,Cash,New York,Returning
+2024-05-12,Sunday,Rose Bouquet,Bouquets,2,25,50,Online,Atlanta,Returning
+2024-05-01,Wednesday,Rose Bouquet,Bouquets,3,25,75,Cash,New York,Returning
+2024-12-06,Friday,Hydrangea Vase,Vases,2,33,66,Card,Seattle,Returning
+2024-12-22,Sunday,Tulip Bunch,Bunches,3,15,45,Online,Dallas,Returning
+2024-12-19,Thursday,Daisy Basket,Baskets,2,20,40,Card,Miami,New
+2024-05-27,Monday,Hydrangea Vase,Vases,4,33,132,Card,Dallas,Returning
+2024-11-25,Monday,Hydrangea Vase,Vases,3,33,99,Cash,Seattle,Returning
+2024-05-23,Thursday,Daisy Basket,Baskets,2,20,40,Card,Miami,Returning
+2024-08-11,Sunday,Lily Bunch,Bunches,1,18,18,Online,Chicago,Returning
+2024-09-02,Monday,Peony Bouquet,Bouquets,2,35,70,Card,Dallas,Returning
+2024-02-15,Thursday,Sunflower Vase,Vases,3,30,90,Card,Houston,Returning
+2024-12-26,Thursday,Peony Bouquet,Bouquets,1,35,35,Card,Houston,Returning
+2024-01-06,Saturday,Daisy Basket,Baskets,4,20,80,Online,Dallas,Returning
+2024-05-28,Tuesday,Lily Bunch,Bunches,1,18,18,Cash,Chicago,Returning
+2024-12-14,Saturday,Orchid Basket,Baskets,1,40,40,Online,New York,Returning
+2024-10-06,Sunday,Peony Bouquet,Bouquets,3,35,105,Card,Seattle,New
+2024-02-03,Saturday,Orchid Basket,Baskets,2,40,80,Card,San Francisco,Returning
+2024-12-20,Friday,Hydrangea Vase,Vases,4,33,132,Card,Miami,New
+2024-09-14,Saturday,Tulip Bunch,Bunches,2,15,30,Cash,Houston,New
+2024-01-27,Saturday,Daisy Basket,Baskets,1,20,20,Card,Boston,New
+2024-05-09,Thursday,Lily Bunch,Bunches,3,18,54,Card,Atlanta,New
+2024-03-08,Friday,Hydrangea Vase,Vases,4,33,132,Cash,Boston,New
+2024-08-20,Tuesday,Orchid Basket,Baskets,1,40,40,Online,Boston,Returning
+2024-01-22,Monday,Tulip Bunch,Bunches,3,15,45,Cash,Seattle,Returning
+2024-02-23,Friday,Sunflower Vase,Vases,1,30,30,Card,Boston,New
+2024-01-22,Monday,Mixed Bouquet,Bouquets,2,28,56,Card,Boston,Returning
+2024-12-04,Wednesday,Lily Bunch,Bunches,1,18,18,Cash,Houston,Returning
+2024-03-03,Sunday,Peony Bouquet,Bouquets,5,35,175,Online,Houston,Returning
+2024-06-08,Saturday,Mixed Bouquet,Bouquets,3,28,84,Online,Miami,Returning
+2024-12-04,Wednesday,Rose Bouquet,Bouquets,1,25,25,Card,Miami,New
+2024-09-12,Thursday,Carnation Bunch,Bunches,1,12,12,Cash,Miami,Returning
+2024-12-16,Monday,Rose Bouquet,Bouquets,2,25,50,Online,Chicago,New
+2024-12-14,Saturday,Orchid Basket,Baskets,1,40,40,Card,Boston,Returning
+2024-12-04,Wednesday,Orchid Basket,Baskets,1,40,40,Card,Houston,Returning
+2024-10-12,Saturday,Carnation Bunch,Bunches,4,12,48,Card,Dallas,Returning
+2024-09-12,Thursday,Peony Bouquet,Bouquets,1,35,35,Online,Dallas,New
+2024-11-08,Friday,Orchid Basket,Baskets,4,40,160,Online,Seattle,Returning
+2024-03-02,Saturday,Lily Bunch,Bunches,4,18,72,Online,Miami,New
+2024-05-19,Sunday,Mixed Bouquet,Bouquets,2,28,56,Card,Dallas,Returning
+2024-01-04,Thursday,Sunflower Vase,Vases,5,30,150,Cash,Dallas,Returning
+2024-11-22,Friday,Carnation Bunch,Bunches,3,12,36,Card,Los Angeles,New
+2024-05-02,Thursday,Sunflower Vase,Vases,5,30,150,Card,Houston,Returning
+2024-12-14,Saturday,Peony Bouquet,Bouquets,1,35,35,Card,Chicago,Returning
+2024-03-17,Sunday,Lily Bunch,Bunches,1,18,18,Card,San Francisco,Returning
+2024-05-16,Thursday,Mixed Bouquet,Bouquets,1,28,28,Online,Seattle,New
+2024-02-07,Wednesday,Sunflower Vase,Vases,1,30,30,Card,Boston,Returning
+2024-05-20,Monday,Mixed Bouquet,Bouquets,2,28,56,Card,Atlanta,Returning
+2024-05-03,Friday,Mixed Bouquet,Bouquets,4,28,112,Card,Los Angeles,New
+2024-12-08,Sunday,Lily Bunch,Bunches,2,18,36,Cash,New York,Returning
+2024-12-11,Wednesday,Tulip Bunch,Bunches,2,15,30,Online,Seattle,New
+2024-07-02,Tuesday,Hydrangea Vase,Vases,3,33,99,Card,Miami,Returning
+2024-02-23,Friday,Orchid Basket,Baskets,2,40,80,Card,Boston,New
+2024-02-04,Sunday,Peony Bouquet,Bouquets,2,35,70,Card,Los Angeles,Returning
+2024-10-09,Wednesday,Tulip Bunch,Bunches,2,15,30,Online,New York,New
+2024-05-05,Sunday,Hydrangea Vase,Vases,3,33,99,Online,Los Angeles,Returning
+2024-06-06,Thursday,Tulip Bunch,Bunches,2,15,30,Online,Dallas,Returning
+2024-04-24,Wednesday,Lily Bunch,Bunches,2,18,36,Cash,San Francisco,Returning
+2024-02-05,Monday,Hydrangea Vase,Vases,3,33,99,Card,Seattle,New
+2024-02-25,Sunday,Orchid Basket,Baskets,4,40,160,Cash,Los Angeles,Returning
+2024-12-01,Sunday,Daisy Basket,Baskets,1,20,20,Card,Houston,Returning
+2024-12-21,Saturday,Carnation Bunch,Bunches,3,12,36,Card,Seattle,Returning
+2024-08-11,Sunday,Hydrangea Vase,Vases,4,33,132,Cash,Los Angeles,New
+2024-03-16,Saturday,Lily Bunch,Bunches,1,18,18,Card,New York,New
+2024-08-24,Saturday,Peony Bouquet,Bouquets,1,35,35,Card,Dallas,Returning
+2024-04-28,Sunday,Orchid Basket,Baskets,1,40,40,Online,New York,Returning
+2024-05-25,Saturday,Daisy Basket,Baskets,4,20,80,Card,Dallas,Returning
+2024-05-06,Monday,Lily Bunch,Bunches,3,18,54,Card,Boston,Returning
+2024-09-27,Friday,Hydrangea Vase,Vases,1,33,33,Online,Miami,Returning
+2024-12-19,Thursday,Rose Bouquet,Bouquets,4,25,100,Online,Boston,Returning
+2024-02-21,Wednesday,Peony Bouquet,Bouquets,2,35,70,Online,New York,Returning
+2024-11-02,Saturday,Rose Bouquet,Bouquets,2,25,50,Cash,Miami,Returning
+2024-05-18,Saturday,Tulip Bunch,Bunches,1,15,15,Card,New York,New
+2024-05-15,Wednesday,Daisy Basket,Baskets,3,20,60,Online,Dallas,New
+2024-05-21,Tuesday,Sunflower Vase,Vases,2,30,60,Online,Houston,New
+2024-02-13,Tuesday,Orchid Basket,Baskets,3,40,120,Card,Chicago,Returning
+2024-03-28,Thursday,Rose Bouquet,Bouquets,2,25,50,Card,Boston,Returning
+2024-01-04,Thursday,Mixed Bouquet,Bouquets,3,28,84,Card,Chicago,Returning
+2024-01-20,Saturday,Lily Bunch,Bunches,1,18,18,Card,Boston,Returning
+2024-06-27,Thursday,Peony Bouquet,Bouquets,2,35,70,Online,New York,New
+2024-12-05,Thursday,Sunflower Vase,Vases,2,30,60,Cash,San Francisco,New
+2024-12-09,Monday,Rose Bouquet,Bouquets,2,25,50,Card,Los Angeles,Returning
+2024-05-18,Saturday,Carnation Bunch,Bunches,3,12,36,Card,Chicago,Returning
+2024-12-25,Wednesday,Lily Bunch,Bunches,1,18,18,Card,San Francisco,Returning
+2024-11-09,Saturday,Orchid Basket,Baskets,4,40,160,Card,Houston,Returning
+2024-02-19,Monday,Carnation Bunch,Bunches,2,12,24,Online,Los Angeles,Returning
+2024-02-14,Wednesday,Hydrangea Vase,Vases,2,33,66,Card,Los Angeles,New
+2024-01-28,Sunday,Tulip Bunch,Bunches,2,15,30,Card,Dallas,New
+2024-07-13,Saturday,Carnation Bunch,Bunches,1,12,12,Card,Miami,New
+2024-04-06,Saturday,Tulip Bunch,Bunches,2,15,30,Card,Houston,Returning
+2024-04-21,Sunday,Lily Bunch,Bunches,4,18,72,Card,San Francisco,Returning
+2024-02-23,Friday,Hydrangea Vase,Vases,2,33,66,Card,Seattle,New
+2024-05-18,Saturday,Peony Bouquet,Bouquets,3,35,105,Cash,Dallas,New
+2024-05-28,Tuesday,Orchid Basket,Baskets,5,40,200,Card,San Francisco,Returning
+2024-02-13,Tuesday,Hydrangea Vase,Vases,3,33,99,Card,San Francisco,New
+2024-05-21,Tuesday,Tulip Bunch,Bunches,3,15,45,Online,Miami,New
+2024-02-24,Saturday,Carnation Bunch,Bunches,1,12,12,Card,Atlanta,New
+2024-10-17,Thursday,Peony Bouquet,Bouquets,4,35,140,Cash,Los Angeles,Returning
+2024-03-13,Wednesday,Mixed Bouquet,Bouquets,3,28,84,Online,Boston,Returning
+2024-02-11,Sunday,Peony Bouquet,Bouquets,2,35,70,Online,Atlanta,Returning
+2024-05-12,Sunday,Peony Bouquet,Bouquets,2,35,70,Card,Houston,Returning
+2024-02-15,Thursday,Rose Bouquet,Bouquets,2,25,50,Online,Chicago,Returning
+2024-12-23,Monday,Daisy Basket,Baskets,3,20,60,Card,Los Angeles,Returning
+2024-12-10,Tuesday,Carnation Bunch,Bunches,2,12,24,Cash,Seattle,New
+2024-10-28,Monday,Tulip Bunch,Bunches,1,15,15,Cash,Miami,Returning
+2024-04-27,Saturday,Carnation Bunch,Bunches,5,12,60,Card,Chicago,New
+2024-02-26,Monday,Orchid Basket,Baskets,3,40,120,Card,Houston,Returning
+2024-12-27,Friday,Mixed Bouquet,Bouquets,3,28,84,Card,Boston,Returning
+2024-12-09,Monday,Rose Bouquet,Bouquets,4,25,100,Card,Miami,Returning
+2024-12-19,Thursday,Carnation Bunch,Bunches,4,12,48,Card,Los Angeles,Returning
+2024-12-13,Friday,Orchid Basket,Baskets,1,40,40,Card,Chicago,Returning
+2024-02-18,Sunday,Peony Bouquet,Bouquets,3,35,105,Cash,Los Angeles,Returning
+2024-12-02,Monday,Sunflower Vase,Vases,1,30,30,Cash,New York,New
+2024-02-20,Tuesday,Mixed Bouquet,Bouquets,2,28,56,Card,New York,Returning
+2024-05-06,Monday,Daisy Basket,Baskets,1,20,20,Card,New York,Returning
+2024-06-16,Sunday,Hydrangea Vase,Vases,4,33,132,Card,Dallas,Returning
+2024-02-28,Wednesday,Sunflower Vase,Vases,3,30,90,Online,Seattle,Returning
+2024-08-27,Tuesday,Lily Bunch,Bunches,4,18,72,Card,Houston,Returning
+2024-09-21,Saturday,Orchid Basket,Baskets,5,40,200,Online,Boston,Returning
+2024-01-17,Wednesday,Orchid Basket,Baskets,2,40,80,Cash,Chicago,Returning
+2024-05-22,Wednesday,Daisy Basket,Baskets,3,20,60,Card,Houston,Returning
+2024-12-07,Saturday,Peony Bouquet,Bouquets,1,35,35,Online,Chicago,New
+2024-02-27,Tuesday,Rose Bouquet,Bouquets,3,25,75,Online,Boston,Returning
+2024-12-13,Friday,Rose Bouquet,Bouquets,1,25,25,Card,Miami,Returning
+2024-05-03,Friday,Sunflower Vase,Vases,2,30,60,Card,Boston,Returning
+2024-02-01,Thursday,Hydrangea Vase,Vases,2,33,66,Online,Seattle,New
+2024-05-26,Sunday,Tulip Bunch,Bunches,1,15,15,Card,Boston,Returning
+2024-11-21,Thursday,Rose Bouquet,Bouquets,1,25,25,Card,Seattle,Returning
+2024-10-01,Tuesday,Orchid Basket,Baskets,1,40,40,Card,Los Angeles,New
+2024-05-13,Monday,Hydrangea Vase,Vases,4,33,132,Card,Boston,Returning
+2024-08-20,Tuesday,Carnation Bunch,Bunches,4,12,48,Card,New York,Returning
+2024-06-07,Friday,Daisy Basket,Baskets,5,20,100,Cash,San Francisco,Returning
+2024-03-16,Saturday,Daisy Basket,Baskets,1,20,20,Cash,Seattle,Returning
+2024-01-22,Monday,Lily Bunch,Bunches,2,18,36,Cash,Atlanta,Returning
+2024-10-08,Tuesday,Peony Bouquet,Bouquets,5,35,175,Online,Boston,New
+2024-02-11,Sunday,Carnation Bunch,Bunches,1,12,12,Online,New York,Returning
+2024-12-10,Tuesday,Tulip Bunch,Bunches,2,15,30,Card,Miami,Returning
+2024-01-25,Thursday,Orchid Basket,Baskets,2,40,80,Online,Seattle,Returning
+2024-02-03,Saturday,Mixed Bouquet,Bouquets,3,28,84,Card,Atlanta,New
+2024-02-18,Sunday,Sunflower Vase,Vases,1,30,30,Online,Atlanta,Returning
+2024-11-18,Monday,Lily Bunch,Bunches,2,18,36,Online,Dallas,New
+2024-12-18,Wednesday,Sunflower Vase,Vases,1,30,30,Cash,New York,Returning
+2024-12-03,Tuesday,Orchid Basket,Baskets,4,40,160,Online,Chicago,Returning
+2024-05-27,Monday,Orchid Basket,Baskets,2,40,80,Online,Chicago,Returning
+2024-02-18,Sunday,Hydrangea Vase,Vases,3,33,99,Card,San Francisco,Returning
+2024-02-27,Tuesday,Peony Bouquet,Bouquets,4,35,140,Cash,San Francisco,New
+2024-04-12,Friday,Orchid Basket,Baskets,1,40,40,Card,Dallas,Returning
+2024-08-25,Sunday,Tulip Bunch,Bunches,3,15,45,Card,Seattle,Returning
+2024-02-18,Sunday,Sunflower Vase,Vases,4,30,120,Card,Dallas,Returning
+2024-05-15,Wednesday,Tulip Bunch,Bunches,2,15,30,Card,Dallas,New
+2024-02-11,Sunday,Daisy Basket,Baskets,3,20,60,Cash,Chicago,Returning
+2024-02-01,Thursday,Orchid Basket,Baskets,4,40,160,Card,Seattle,New
+2024-05-04,Saturday,Mixed Bouquet,Bouquets,5,28,140,Card,Boston,Returning
+2024-02-08,Thursday,Peony Bouquet,Bouquets,5,35,175,Cash,Seattle,New
+2024-09-27,Friday,Orchid Basket,Baskets,3,40,120,Cash,Los Angeles,New
+2024-03-09,Saturday,Hydrangea Vase,Vases,3,33,99,Card,Los Angeles,New
+2024-05-13,Monday,Daisy Basket,Baskets,3,20,60,Card,Boston,New
+2024-11-18,Monday,Carnation Bunch,Bunches,2,12,24,Card,Los Angeles,Returning
+2024-12-17,Tuesday,Peony Bouquet,Bouquets,3,35,105,Online,Los Angeles,New
+2024-12-25,Wednesday,Mixed Bouquet,Bouquets,5,28,140,Cash,Boston,Returning
+2024-05-04,Saturday,Tulip Bunch,Bunches,1,15,15,Cash,New York,Returning
+2024-02-10,Saturday,Sunflower Vase,Vases,1,30,30,Online,Dallas,Returning
+2024-05-11,Saturday,Sunflower Vase,Vases,1,30,30,Card,Boston,Returning
+2024-03-05,Tuesday,Daisy Basket,Baskets,3,20,60,Card,New York,New
+2024-08-02,Friday,Peony Bouquet,Bouquets,3,35,105,Cash,San Francisco,New
+2024-03-24,Sunday,Carnation Bunch,Bunches,3,12,36,Online,New York,New
+2024-06-03,Monday,Daisy Basket,Baskets,1,20,20,Online,New York,Returning
+2024-02-20,Tuesday,Orchid Basket,Baskets,2,40,80,Card,Chicago,Returning
+2024-12-24,Tuesday,Mixed Bouquet,Bouquets,4,28,112,Cash,Atlanta,New
+2024-07-10,Wednesday,Tulip Bunch,Bunches,2,15,30,Cash,New York,New
+2024-05-13,Monday,Orchid Basket,Baskets,1,40,40,Cash,Boston,New
+2024-05-25,Saturday,Sunflower Vase,Vases,1,30,30,Cash,San Francisco,Returning
+2024-11-05,Tuesday,Lily Bunch,Bunches,4,18,72,Online,Seattle,Returning
+2024-05-11,Saturday,Carnation Bunch,Bunches,5,12,60,Cash,Miami,Returning
+2024-02-22,Thursday,Lily Bunch,Bunches,3,18,54,Online,Miami,Returning
+2024-05-28,Tuesday,Sunflower Vase,Vases,1,30,30,Cash,Miami,New
+2024-03-07,Thursday,Carnation Bunch,Bunches,2,12,24,Online,Boston,Returning
+2024-12-19,Thursday,Daisy Basket,Baskets,1,20,20,Cash,Miami,Returning
+2024-05-26,Sunday,Mixed Bouquet,Bouquets,1,28,28,Card,Chicago,Returning
+2024-05-06,Monday,Peony Bouquet,Bouquets,4,35,140,Card,Miami,Returning
+2024-05-24,Friday,Rose Bouquet,Bouquets,5,25,125,Card,Atlanta,Returning
+2024-01-07,Sunday,Mixed Bouquet,Bouquets,2,28,56,Online,Los Angeles,Returning
+2024-09-08,Sunday,Orchid Basket,Baskets,4,40,160,Online,Boston,Returning
+2024-05-21,Tuesday,Lily Bunch,Bunches,2,18,36,Card,Los Angeles,New
+2024-02-18,Sunday,Lily Bunch,Bunches,4,18,72,Cash,Chicago,Returning
+2024-05-02,Thursday,Rose Bouquet,Bouquets,2,25,50,Cash,Miami,Returning
+2024-02-08,Thursday,Mixed Bouquet,Bouquets,5,28,140,Card,New York,Returning
+2024-05-12,Sunday,Daisy Basket,Baskets,2,20,40,Card,Miami,Returning
+2024-03-18,Monday,Rose Bouquet,Bouquets,1,25,25,Card,Boston,New
+2024-05-06,Monday,Sunflower Vase,Vases,1,30,30,Online,San Francisco,Returning
+2024-07-10,Wednesday,Orchid Basket,Baskets,1,40,40,Card,New York,Returning
+2024-10-05,Saturday,Carnation Bunch,Bunches,1,12,12,Card,New York,Returning
+2024-05-02,Thursday,Mixed Bouquet,Bouquets,2,28,56,Card,Dallas,Returning
+2024-03-08,Friday,Mixed Bouquet,Bouquets,3,28,84,Card,San Francisco,New
+2024-03-09,Saturday,Hydrangea Vase,Vases,4,33,132,Online,Atlanta,Returning
+2024-02-17,Saturday,Sunflower Vase,Vases,1,30,30,Card,Boston,Returning
+2024-01-26,Friday,Daisy Basket,Baskets,2,20,40,Online,Chicago,Returning
+2024-12-03,Tuesday,Carnation Bunch,Bunches,3,12,36,Card,Miami,Returning
+2024-12-16,Monday,Tulip Bunch,Bunches,1,15,15,Card,Dallas,New
+2024-12-01,Sunday,Mixed Bouquet,Bouquets,4,28,112,Card,New York,New
+2024-05-24,Friday,Daisy Basket,Baskets,3,20,60,Cash,Houston,Returning
+2024-03-11,Monday,Rose Bouquet,Bouquets,1,25,25,Online,Los Angeles,Returning
+2024-02-21,Wednesday,Rose Bouquet,Bouquets,2,25,50,Card,San Francisco,Returning
+2024-12-25,Wednesday,Tulip Bunch,Bunches,4,15,60,Card,Dallas,New
+2024-02-23,Friday,Carnation Bunch,Bunches,5,12,60,Card,Houston,Returning
+2024-11-14,Thursday,Rose Bouquet,Bouquets,3,25,75,Card,Dallas,Returning
+2024-07-10,Wednesday,Peony Bouquet,Bouquets,1,35,35,Card,San Francisco,New
+2024-12-03,Tuesday,Carnation Bunch,Bunches,2,12,24,Card,New York,Returning
+2024-10-20,Sunday,Daisy Basket,Baskets,2,20,40,Card,Chicago,Returning
+2024-05-21,Tuesday,Orchid Basket,Baskets,1,40,40,Card,Miami,Returning
+2024-12-02,Monday,Daisy Basket,Baskets,4,20,80,Online,Los Angeles,Returning
+2024-02-13,Tuesday,Hydrangea Vase,Vases,2,33,66,Online,Boston,Returning
+2024-05-16,Thursday,Mixed Bouquet,Bouquets,2,28,56,Online,Seattle,New
+2024-05-05,Sunday,Mixed Bouquet,Bouquets,3,28,84,Card,Boston,Returning
+2024-06-21,Friday,Hydrangea Vase,Vases,1,33,33,Online,Chicago,New
+2024-12-28,Saturday,Peony Bouquet,Bouquets,3,35,105,Card,Seattle,Returning
+2024-04-20,Saturday,Daisy Basket,Baskets,3,20,60,Cash,San Francisco,New
+2024-05-03,Friday,Hydrangea Vase,Vases,2,33,66,Card,Miami,Returning
+2024-04-16,Tuesday,Lily Bunch,Bunches,1,18,18,Online,Houston,Returning
+2024-12-04,Wednesday,Peony Bouquet,Bouquets,2,35,70,Card,Houston,New
+2024-02-14,Wednesday,Mixed Bouquet,Bouquets,2,28,56,Cash,Seattle,Returning
+2024-05-14,Tuesday,Daisy Basket,Baskets,3,20,60,Online,Houston,Returning
+2024-06-16,Sunday,Hydrangea Vase,Vases,3,33,99,Online,Boston,New
+2024-05-20,Monday,Carnation Bunch,Bunches,1,12,12,Card,Houston,Returning
+2024-12-07,Saturday,Rose Bouquet,Bouquets,3,25,75,Online,Dallas,Returning
+2024-09-05,Thursday,Mixed Bouquet,Bouquets,1,28,28,Card,New York,New
+2024-12-25,Wednesday,Carnation Bunch,Bunches,5,12,60,Cash,Miami,Returning
+2024-03-18,Monday,Mixed Bouquet,Bouquets,2,28,56,Card,Houston,New
+2024-06-16,Sunday,Lily Bunch,Bunches,1,18,18,Online,Atlanta,Returning
+2024-01-17,Wednesday,Hydrangea Vase,Vases,1,33,33,Card,Atlanta,New
+2024-04-02,Tuesday,Hydrangea Vase,Vases,5,33,165,Card,Chicago,Returning
+2024-10-16,Wednesday,Rose Bouquet,Bouquets,3,25,75,Online,New York,Returning
+2024-07-15,Monday,Hydrangea Vase,Vases,2,33,66,Cash,Miami,New
+2024-02-16,Friday,Hydrangea Vase,Vases,2,33,66,Cash,Los Angeles,Returning
+2024-08-04,Sunday,Mixed Bouquet,Bouquets,1,28,28,Online,Dallas,Returning
+2024-12-28,Saturday,Peony Bouquet,Bouquets,1,35,35,Online,Miami,Returning
+2024-05-03,Friday,Lily Bunch,Bunches,3,18,54,Card,Atlanta,Returning
+2024-06-27,Thursday,Orchid Basket,Baskets,1,40,40,Card,New York,New
+2024-07-14,Sunday,Rose Bouquet,Bouquets,2,25,50,Card,Dallas,Returning
+2024-12-09,Monday,Sunflower Vase,Vases,2,30,60,Card,Seattle,Returning
+2024-08-11,Sunday,Orchid Basket,Baskets,5,40,200,Card,Seattle,Returning
+2024-12-25,Wednesday,Orchid Basket,Baskets,2,40,80,Cash,Los Angeles,Returning
+2024-04-26,Friday,Orchid Basket,Baskets,1,40,40,Card,New York,Returning
+2024-12-19,Thursday,Sunflower Vase,Vases,1,30,30,Online,San Francisco,New
+2024-02-04,Sunday,Orchid Basket,Baskets,1,40,40,Card,Chicago,Returning
+2024-03-05,Tuesday,Carnation Bunch,Bunches,2,12,24,Online,New York,New
+2024-04-16,Tuesday,Daisy Basket,Baskets,3,20,60,Card,Miami,Returning
+2024-01-10,Wednesday,Mixed Bouquet,Bouquets,1,28,28,Cash,Boston,Returning
+2024-02-26,Monday,Orchid Basket,Baskets,2,40,80,Card,Boston,New
+2024-12-10,Tuesday,Daisy Basket,Baskets,2,20,40,Online,Chicago,New
+2024-12-12,Thursday,Tulip Bunch,Bunches,1,15,15,Online,Chicago,Returning
+2024-09-13,Friday,Daisy Basket,Baskets,4,20,80,Card,Boston,Returning
+2024-08-06,Tuesday,Sunflower Vase,Vases,5,30,150,Card,Los Angeles,Returning
+2024-12-23,Monday,Sunflower Vase,Vases,1,30,30,Card,Boston,Returning
+2024-05-07,Tuesday,Peony Bouquet,Bouquets,2,35,70,Card,San Francisco,Returning
+2024-05-14,Tuesday,Orchid Basket,Baskets,1,40,40,Online,New York,Returning
+2024-04-21,Sunday,Hydrangea Vase,Vases,4,33,132,Card,Atlanta,Returning
+2024-04-12,Friday,Orchid Basket,Baskets,4,40,160,Cash,San Francisco,New
+2024-12-01,Sunday,Peony Bouquet,Bouquets,1,35,35,Card,Boston,Returning
+2024-06-14,Friday,Rose Bouquet,Bouquets,2,25,50,Card,San Francisco,New
+2024-01-10,Wednesday,Tulip Bunch,Bunches,2,15,30,Cash,Miami,Returning
+2024-05-12,Sunday,Peony Bouquet,Bouquets,5,35,175,Online,Miami,Returning
+2024-05-14,Tuesday,Orchid Basket,Baskets,1,40,40,Online,Atlanta,Returning
+2024-05-19,Sunday,Peony Bouquet,Bouquets,2,35,70,Cash,Los Angeles,Returning
+2024-11-09,Saturday,Tulip Bunch,Bunches,2,15,30,Online,Los Angeles,Returning
+2024-02-16,Friday,Mixed Bouquet,Bouquets,1,28,28,Card,New York,Returning
+2024-09-25,Wednesday,Daisy Basket,Baskets,1,20,20,Cash,Dallas,Returning
+2024-05-16,Thursday,Tulip Bunch,Bunches,3,15,45,Online,New York,Returning
+2024-11-05,Tuesday,Rose Bouquet,Bouquets,2,25,50,Card,Houston,Returning
+2024-02-03,Saturday,Daisy Basket,Baskets,2,20,40,Online,Atlanta,Returning
+2024-02-26,Monday,Sunflower Vase,Vases,2,30,60,Card,Atlanta,Returning
+2024-12-23,Monday,Hydrangea Vase,Vases,1,33,33,Cash,San Francisco,Returning
+2024-05-25,Saturday,Mixed Bouquet,Bouquets,3,28,84,Card,New York,New
+2024-05-06,Monday,Daisy Basket,Baskets,1,20,20,Card,San Francisco,New
+2024-02-17,Saturday,Rose Bouquet,Bouquets,2,25,50,Online,Los Angeles,New
+2024-02-06,Tuesday,Daisy Basket,Baskets,2,20,40,Card,Los Angeles,Returning
+2024-05-13,Monday,Peony Bouquet,Bouquets,2,35,70,Online,Boston,Returning
+2024-12-11,Wednesday,Peony Bouquet,Bouquets,5,35,175,Online,Houston,New
+2024-02-20,Tuesday,Orchid Basket,Baskets,1,40,40,Card,New York,New
+2024-03-16,Saturday,Carnation Bunch,Bunches,1,12,12,Online,Miami,Returning
+2024-05-17,Friday,Mixed Bouquet,Bouquets,5,28,140,Online,Atlanta,Returning
+2024-09-02,Monday,Tulip Bunch,Bunches,4,15,60,Online,Houston,Returning
+2024-02-09,Friday,Hydrangea Vase,Vases,1,33,33,Online,Los Angeles,New
+2024-05-05,Sunday,Hydrangea Vase,Vases,5,33,165,Card,Miami,New
+2024-01-21,Sunday,Orchid Basket,Baskets,1,40,40,Card,Seattle,Returning
+2024-12-04,Wednesday,Peony Bouquet,Bouquets,2,35,70,Cash,San Francisco,Returning
+2024-02-10,Saturday,Hydrangea Vase,Vases,3,33,99,Card,San Francisco,New
+2024-10-02,Wednesday,Daisy Basket,Baskets,3,20,60,Online,Chicago,Returning
+2024-09-24,Tuesday,Sunflower Vase,Vases,4,30,120,Card,New York,Returning
+2024-12-04,Wednesday,Orchid Basket,Baskets,2,40,80,Online,Seattle,Returning
+2024-07-22,Monday,Tulip Bunch,Bunches,1,15,15,Online,Chicago,Returning
+2024-10-01,Tuesday,Sunflower Vase,Vases,1,30,30,Online,New York,Returning
+2024-05-08,Wednesday,Tulip Bunch,Bunches,4,15,60,Online,Chicago,Returning
+2024-12-11,Wednesday,Sunflower Vase,Vases,2,30,60,Online,Chicago,Returning
+2024-02-28,Wednesday,Rose Bouquet,Bouquets,3,25,75,Online,Houston,Returning
+2024-05-22,Wednesday,Hydrangea Vase,Vases,3,33,99,Card,San Francisco,Returning
+2024-08-21,Wednesday,Carnation Bunch,Bunches,1,12,12,Card,San Francisco,New
+2024-04-18,Thursday,Peony Bouquet,Bouquets,2,35,70,Card,Los Angeles,Returning
+2024-02-03,Saturday,Hydrangea Vase,Vases,3,33,99,Cash,Houston,Returning
+2024-02-07,Wednesday,Sunflower Vase,Vases,3,30,90,Online,Los Angeles,Returning
+2024-05-03,Friday,Sunflower Vase,Vases,2,30,60,Card,Seattle,Returning
+2024-02-21,Wednesday,Peony Bouquet,Bouquets,5,35,175,Online,New York,Returning
+2024-01-24,Wednesday,Sunflower Vase,Vases,2,30,60,Online,Houston,Returning
+2024-05-20,Monday,Hydrangea Vase,Vases,4,33,132,Online,Seattle,Returning
+2024-03-28,Thursday,Mixed Bouquet,Bouquets,1,28,28,Cash,Los Angeles,Returning
+2024-02-25,Sunday,Tulip Bunch,Bunches,1,15,15,Card,Los Angeles,New
+2024-12-17,Tuesday,Tulip Bunch,Bunches,4,15,60,Card,Miami,Returning
+2024-12-13,Friday,Hydrangea Vase,Vases,5,33,165,Online,Atlanta,Returning
+2024-07-19,Friday,Orchid Basket,Baskets,2,40,80,Card,Chicago,Returning
+2024-09-16,Monday,Sunflower Vase,Vases,1,30,30,Cash,Boston,New
+2024-09-15,Sunday,Rose Bouquet,Bouquets,2,25,50,Card,Atlanta,Returning
+2024-02-23,Friday,Daisy Basket,Baskets,2,20,40,Card,Miami,New
+2024-05-18,Saturday,Hydrangea Vase,Vases,3,33,99,Card,Houston,New
+2024-02-07,Wednesday,Mixed Bouquet,Bouquets,1,28,28,Cash,Miami,Returning
+2024-02-25,Sunday,Daisy Basket,Baskets,1,20,20,Online,Miami,Returning
+2024-11-24,Sunday,Mixed Bouquet,Bouquets,2,28,56,Card,Dallas,Returning
+2024-02-17,Saturday,Lily Bunch,Bunches,3,18,54,Card,San Francisco,Returning
+2024-02-06,Tuesday,Rose Bouquet,Bouquets,1,25,25,Cash,Chicago,Returning
+2024-10-10,Thursday,Carnation Bunch,Bunches,2,12,24,Card,Chicago,New
+2024-12-03,Tuesday,Rose Bouquet,Bouquets,2,25,50,Online,Seattle,New
+2024-02-18,Sunday,Daisy Basket,Baskets,2,20,40,Online,Seattle,New
+2024-12-04,Wednesday,Orchid Basket,Baskets,1,40,40,Card,Seattle,New
+2024-01-12,Friday,Tulip Bunch,Bunches,2,15,30,Card,Houston,Returning
+2024-05-06,Monday,Hydrangea Vase,Vases,3,33,99,Cash,Miami,Returning
+2024-12-12,Thursday,Hydrangea Vase,Vases,3,33,99,Online,Boston,Returning
+2024-12-13,Friday,Orchid Basket,Baskets,5,40,200,Online,Los Angeles,Returning
+2024-09-15,Sunday,Mixed Bouquet,Bouquets,2,28,56,Card,Seattle,Returning
+2024-11-23,Saturday,Sunflower Vase,Vases,3,30,90,Cash,Los Angeles,Returning
+2024-02-18,Sunday,Daisy Basket,Baskets,5,20,100,Card,Miami,Returning
+2024-12-27,Friday,Mixed Bouquet,Bouquets,4,28,112,Card,San Francisco,Returning
+2024-02-05,Monday,Hydrangea Vase,Vases,1,33,33,Card,Houston,New
+2024-04-15,Monday,Lily Bunch,Bunches,3,18,54,Card,San Francisco,New
+2024-07-17,Wednesday,Hydrangea Vase,Vases,1,33,33,Card,Miami,New
+2024-12-16,Monday,Orchid Basket,Baskets,3,40,120,Card,Houston,Returning
+2024-02-27,Tuesday,Hydrangea Vase,Vases,2,33,66,Online,Dallas,Returning
+2024-02-24,Saturday,Mixed Bouquet,Bouquets,1,28,28,Online,San Francisco,New
+2024-07-23,Tuesday,Rose Bouquet,Bouquets,5,25,125,Cash,Atlanta,New
+2024-02-11,Sunday,Tulip Bunch,Bunches,5,15,75,Card,Boston,New
+2024-07-27,Saturday,Orchid Basket,Baskets,1,40,40,Card,Houston,Returning
+2024-02-04,Sunday,Sunflower Vase,Vases,1,30,30,Online,Dallas,Returning
+2024-12-21,Saturday,Tulip Bunch,Bunches,4,15,60,Card,New York,Returning
+2024-02-19,Monday,Hydrangea Vase,Vases,1,33,33,Online,Seattle,Returning
+2024-05-15,Wednesday,Sunflower Vase,Vases,2,30,60,Cash,Chicago,Returning
+2024-10-02,Wednesday,Tulip Bunch,Bunches,5,15,75,Cash,Seattle,Returning
+2024-12-12,Thursday,Peony Bouquet,Bouquets,2,35,70,Online,Boston,Returning
+2024-04-04,Thursday,Carnation Bunch,Bunches,4,12,48,Card,New York,Returning
+2024-04-06,Saturday,Rose Bouquet,Bouquets,4,25,100,Online,Atlanta,Returning
+2024-12-26,Thursday,Peony Bouquet,Bouquets,4,35,140,Online,Houston,Returning
+2024-08-15,Thursday,Peony Bouquet,Bouquets,3,35,105,Card,Chicago,Returning
+2024-07-26,Friday,Tulip Bunch,Bunches,3,15,45,Online,Houston,New
+2024-02-17,Saturday,Peony Bouquet,Bouquets,1,35,35,Online,Atlanta,Returning
+2024-05-28,Tuesday,Lily Bunch,Bunches,4,18,72,Card,Chicago,Returning
+2024-12-15,Sunday,Orchid Basket,Baskets,3,40,120,Cash,Atlanta,Returning
+2024-01-11,Thursday,Rose Bouquet,Bouquets,2,25,50,Online,San Francisco,Returning
+2024-05-24,Friday,Hydrangea Vase,Vases,1,33,33,Card,Houston,Returning
+2024-09-07,Saturday,Sunflower Vase,Vases,2,30,60,Card,Los Angeles,Returning
+2024-12-11,Wednesday,Orchid Basket,Baskets,5,40,200,Card,Seattle,Returning
+2024-02-16,Friday,Sunflower Vase,Vases,3,30,90,Card,San Francisco,Returning
+2024-12-11,Wednesday,Rose Bouquet,Bouquets,2,25,50,Online,Seattle,New
+2024-09-26,Thursday,Peony Bouquet,Bouquets,2,35,70,Online,Miami,New
+2024-02-11,Sunday,Orchid Basket,Baskets,5,40,200,Card,Atlanta,Returning
+2024-06-01,Saturday,Lily Bunch,Bunches,1,18,18,Cash,Houston,Returning
+2024-03-15,Friday,Orchid Basket,Baskets,1,40,40,Card,Dallas,Returning
+2024-10-03,Thursday,Peony Bouquet,Bouquets,3,35,105,Online,Atlanta,Returning
+2024-11-10,Sunday,Daisy Basket,Baskets,1,20,20,Card,Seattle,Returning
+2024-02-06,Tuesday,Daisy Basket,Baskets,2,20,40,Card,Boston,Returning
+2024-10-03,Thursday,Carnation Bunch,Bunches,2,12,24,Online,Dallas,New
+2024-01-28,Sunday,Rose Bouquet,Bouquets,1,25,25,Online,Atlanta,Returning
+2024-02-07,Wednesday,Rose Bouquet,Bouquets,5,25,125,Card,Los Angeles,New
+2024-07-15,Monday,Lily Bunch,Bunches,3,18,54,Online,Dallas,Returning
+2024-02-16,Friday,Sunflower Vase,Vases,4,30,120,Card,Atlanta,Returning
+2024-02-23,Friday,Lily Bunch,Bunches,2,18,36,Online,Atlanta,New
+2024-02-02,Friday,Orchid Basket,Baskets,2,40,80,Online,Chicago,Returning
+2024-12-28,Saturday,Carnation Bunch,Bunches,3,12,36,Online,Atlanta,New
+2024-05-25,Saturday,Daisy Basket,Baskets,4,20,80,Card,Los Angeles,New
+2024-05-28,Tuesday,Rose Bouquet,Bouquets,4,25,100,Card,San Francisco,Returning
+2024-05-02,Thursday,Lily Bunch,Bunches,1,18,18,Card,Boston,Returning
+2024-02-02,Friday,Carnation Bunch,Bunches,1,12,12,Online,Miami,Returning
+2024-12-03,Tuesday,Sunflower Vase,Vases,4,30,120,Cash,Los Angeles,New
+2024-09-10,Tuesday,Daisy Basket,Baskets,2,20,40,Online,Los Angeles,Returning
+2024-01-24,Wednesday,Daisy Basket,Baskets,2,20,40,Card,New York,Returning
+2024-06-20,Thursday,Sunflower Vase,Vases,1,30,30,Card,Dallas,Returning
+2024-09-09,Monday,Daisy Basket,Baskets,1,20,20,Online,New York,New
+2024-05-04,Saturday,Tulip Bunch,Bunches,2,15,30,Card,Boston,Returning
+2024-06-06,Thursday,Lily Bunch,Bunches,1,18,18,Cash,Miami,Returning
+2024-01-24,Wednesday,Daisy Basket,Baskets,2,20,40,Card,Houston,Returning
+2024-10-05,Saturday,Carnation Bunch,Bunches,1,12,12,Online,Miami,Returning
+2024-08-23,Friday,Mixed Bouquet,Bouquets,1,28,28,Cash,Los Angeles,Returning
+2024-05-24,Friday,Tulip Bunch,Bunches,1,15,15,Cash,Atlanta,Returning
+2024-05-28,Tuesday,Sunflower Vase,Vases,4,30,120,Card,Atlanta,New
+2024-08-17,Saturday,Mixed Bouquet,Bouquets,4,28,112,Online,Miami,Returning
+2024-02-12,Monday,Daisy Basket,Baskets,2,20,40,Card,Seattle,Returning
+2024-02-25,Sunday,Rose Bouquet,Bouquets,1,25,25,Online,Boston,Returning
+2024-02-11,Sunday,Orchid Basket,Baskets,1,40,40,Online,Seattle,Returning
+2024-03-27,Wednesday,Hydrangea Vase,Vases,2,33,66,Cash,Miami,New
+2024-02-02,Friday,Orchid Basket,Baskets,2,40,80,Card,San Francisco,Returning
+2024-12-09,Monday,Hydrangea Vase,Vases,1,33,33,Cash,Dallas,Returning
+2024-12-09,Monday,Rose Bouquet,Bouquets,5,25,125,Online,Atlanta,Returning
+2024-12-06,Friday,Rose Bouquet,Bouquets,1,25,25,Online,Seattle,Returning
+2024-06-07,Friday,Carnation Bunch,Bunches,2,12,24,Card,Los Angeles,New
+2024-11-11,Monday,Rose Bouquet,Bouquets,3,25,75,Card,Miami,New
+2024-03-28,Thursday,Mixed Bouquet,Bouquets,4,28,112,Cash,Houston,New
+2024-02-08,Thursday,Rose Bouquet,Bouquets,3,25,75,Card,Dallas,Returning
+2024-09-27,Friday,Orchid Basket,Baskets,1,40,40,Card,San Francisco,New
+2024-05-09,Thursday,Rose Bouquet,Bouquets,1,25,25,Card,Boston,Returning
+2024-09-07,Saturday,Mixed Bouquet,Bouquets,2,28,56,Cash,Houston,New
+2024-12-16,Monday,Sunflower Vase,Vases,3,30,90,Online,San Francisco,Returning
+2024-12-08,Sunday,Sunflower Vase,Vases,5,30,150,Card,Atlanta,Returning
+2024-04-26,Friday,Orchid Basket,Baskets,2,40,80,Online,Atlanta,New
+2024-12-28,Saturday,Mixed Bouquet,Bouquets,5,28,140,Card,Boston,New
+2024-05-19,Sunday,Carnation Bunch,Bunches,5,12,60,Card,San Francisco,Returning
+2024-02-24,Saturday,Lily Bunch,Bunches,4,18,72,Online,Boston,Returning
+2024-05-06,Monday,Carnation Bunch,Bunches,4,12,48,Online,Seattle,New
+2024-03-16,Saturday,Hydrangea Vase,Vases,4,33,132,Cash,Chicago,New
+2024-12-18,Wednesday,Lily Bunch,Bunches,2,18,36,Online,Los Angeles,Returning
+2024-05-19,Sunday,Daisy Basket,Baskets,1,20,20,Cash,Boston,Returning
+2024-07-27,Saturday,Orchid Basket,Baskets,4,40,160,Online,New York,Returning
+2024-01-08,Monday,Hydrangea Vase,Vases,1,33,33,Cash,Dallas,New
+2024-05-27,Monday,Peony Bouquet,Bouquets,3,35,105,Card,Chicago,New
+2024-05-18,Saturday,Daisy Basket,Baskets,2,20,40,Card,Atlanta,New
+2024-09-02,Monday,Mixed Bouquet,Bouquets,1,28,28,Online,New York,New
+2024-08-19,Monday,Hydrangea Vase,Vases,2,33,66,Cash,San Francisco,Returning
+2024-05-02,Thursday,Daisy Basket,Baskets,2,20,40,Online,Dallas,Returning
+2024-05-28,Tuesday,Sunflower Vase,Vases,2,30,60,Card,New York,Returning
+2024-06-20,Thursday,Sunflower Vase,Vases,4,30,120,Online,Chicago,New
+2024-05-16,Thursday,Orchid Basket,Baskets,3,40,120,Card,Dallas,Returning
+2024-09-18,Wednesday,Hydrangea Vase,Vases,2,33,66,Card,Atlanta,Returning
+2024-06-16,Sunday,Peony Bouquet,Bouquets,1,35,35,Cash,Boston,Returning
+2024-12-01,Sunday,Orchid Basket,Baskets,1,40,40,Online,Los Angeles,New
+2024-02-19,Monday,Hydrangea Vase,Vases,1,33,33,Cash,San Francisco,Returning
+2024-12-09,Monday,Rose Bouquet,Bouquets,1,25,25,Cash,Dallas,New
+2024-12-24,Tuesday,Hydrangea Vase,Vases,1,33,33,Card,New York,New
+2024-02-10,Saturday,Sunflower Vase,Vases,2,30,60,Cash,Miami,Returning
+2024-03-04,Monday,Carnation Bunch,Bunches,1,12,12,Cash,Boston,Returning
+2024-12-18,Wednesday,Peony Bouquet,Bouquets,1,35,35,Card,Chicago,New
+2024-02-14,Wednesday,Hydrangea Vase,Vases,3,33,99,Card,Miami,New
+2024-09-18,Wednesday,Peony Bouquet,Bouquets,2,35,70,Online,Chicago,New
+2024-11-20,Wednesday,Tulip Bunch,Bunches,3,15,45,Online,Boston,Returning
+2024-12-17,Tuesday,Rose Bouquet,Bouquets,3,25,75,Card,Houston,Returning
+2024-09-09,Monday,Sunflower Vase,Vases,1,30,30,Card,Houston,Returning
+2024-12-14,Saturday,Sunflower Vase,Vases,1,30,30,Online,Houston,Returning
+2024-08-11,Sunday,Hydrangea Vase,Vases,1,33,33,Online,New York,Returning
+2024-12-22,Sunday,Daisy Basket,Baskets,4,20,80,Cash,New York,Returning
+2024-06-17,Monday,Mixed Bouquet,Bouquets,1,28,28,Card,Miami,Returning
+2024-05-12,Sunday,Rose Bouquet,Bouquets,1,25,25,Cash,Dallas,New
+2024-05-01,Wednesday,Rose Bouquet,Bouquets,1,25,25,Card,San Francisco,New
+2024-02-14,Wednesday,Peony Bouquet,Bouquets,1,35,35,Card,Los Angeles,Returning
+2024-09-10,Tuesday,Sunflower Vase,Vases,3,30,90,Online,Chicago,New
+2024-11-01,Friday,Mixed Bouquet,Bouquets,1,28,28,Card,Chicago,Returning
+2024-12-19,Thursday,Rose Bouquet,Bouquets,2,25,50,Cash,Boston,Returning
+2024-12-18,Wednesday,Rose Bouquet,Bouquets,5,25,125,Card,Los Angeles,Returning
+2024-05-21,Tuesday,Lily Bunch,Bunches,2,18,36,Online,Los Angeles,Returning
+2024-12-06,Friday,Lily Bunch,Bunches,1,18,18,Cash,Dallas,Returning
+2024-12-06,Friday,Mixed Bouquet,Bouquets,1,28,28,Cash,San Francisco,Returning
+2024-05-07,Tuesday,Tulip Bunch,Bunches,2,15,30,Cash,Miami,Returning
+2024-12-04,Wednesday,Peony Bouquet,Bouquets,3,35,105,Card,Los Angeles,Returning
+2024-05-15,Wednesday,Mixed Bouquet,Bouquets,3,28,84,Cash,Atlanta,Returning
+2024-05-19,Sunday,Mixed Bouquet,Bouquets,3,28,84,Online,Chicago,New
+2024-02-20,Tuesday,Lily Bunch,Bunches,2,18,36,Card,Dallas,Returning
+2024-12-18,Wednesday,Daisy Basket,Baskets,1,20,20,Cash,Atlanta,Returning
+2024-02-06,Tuesday,Lily Bunch,Bunches,1,18,18,Card,Dallas,New
+2024-02-22,Thursday,Hydrangea Vase,Vases,2,33,66,Card,Miami,Returning
+2024-02-14,Wednesday,Hydrangea Vase,Vases,1,33,33,Card,Miami,New
+2024-09-09,Monday,Orchid Basket,Baskets,2,40,80,Card,Boston,New
+2024-11-23,Saturday,Sunflower Vase,Vases,1,30,30,Online,San Francisco,Returning
+2024-12-03,Tuesday,Rose Bouquet,Bouquets,2,25,50,Online,Los Angeles,Returning
+2024-08-01,Thursday,Tulip Bunch,Bunches,2,15,30,Online,Houston,New
+2024-05-19,Sunday,Hydrangea Vase,Vases,1,33,33,Card,Los Angeles,Returning
+2024-02-12,Monday,Peony Bouquet,Bouquets,2,35,70,Card,Boston,Returning
+2024-08-22,Thursday,Mixed Bouquet,Bouquets,2,28,56,Cash,Boston,Returning
+2024-12-25,Wednesday,Lily Bunch,Bunches,1,18,18,Cash,Houston,New
+2024-10-28,Monday,Orchid Basket,Baskets,1,40,40,Cash,Los Angeles,Returning
+2024-12-10,Tuesday,Tulip Bunch,Bunches,5,15,75,Cash,New York,New
+2024-07-20,Saturday,Hydrangea Vase,Vases,1,33,33,Online,San Francisco,New
+2024-12-03,Tuesday,Daisy Basket,Baskets,1,20,20,Cash,Dallas,Returning
+2024-05-10,Friday,Daisy Basket,Baskets,3,20,60,Cash,Chicago,New
+2024-05-05,Sunday,Sunflower Vase,Vases,2,30,60,Online,Dallas,New
+2024-10-19,Saturday,Peony Bouquet,Bouquets,1,35,35,Online,Atlanta,Returning
+2024-05-01,Wednesday,Mixed Bouquet,Bouquets,4,28,112,Card,Chicago,Returning
+2024-04-15,Monday,Daisy Basket,Baskets,3,20,60,Card,Atlanta,Returning
+2024-05-01,Wednesday,Peony Bouquet,Bouquets,4,35,140,Online,Chicago,Returning
+2024-06-19,Wednesday,Rose Bouquet,Bouquets,1,25,25,Card,Boston,New
+2024-09-04,Wednesday,Daisy Basket,Baskets,3,20,60,Online,Miami,Returning
+2024-05-06,Monday,Daisy Basket,Baskets,2,20,40,Online,Boston,Returning
+2024-06-09,Sunday,Orchid Basket,Baskets,1,40,40,Card,Boston,Returning
+2024-11-18,Monday,Rose Bouquet,Bouquets,1,25,25,Card,Seattle,Returning
+2024-12-10,Tuesday,Rose Bouquet,Bouquets,4,25,100,Card,Houston,New
+2024-12-26,Thursday,Orchid Basket,Baskets,1,40,40,Cash,New York,Returning
+2024-10-04,Friday,Carnation Bunch,Bunches,1,12,12,Online,New York,Returning
+2024-12-09,Monday,Daisy Basket,Baskets,1,20,20,Card,Houston,Returning
+2024-02-11,Sunday,Orchid Basket,Baskets,1,40,40,Card,Los Angeles,Returning
+2024-02-09,Friday,Tulip Bunch,Bunches,4,15,60,Cash,New York,Returning
+2024-12-15,Sunday,Daisy Basket,Baskets,2,20,40,Online,New York,Returning
+2024-02-23,Friday,Lily Bunch,Bunches,2,18,36,Card,Houston,Returning
+2024-12-20,Friday,Daisy Basket,Baskets,3,20,60,Card,Los Angeles,Returning
+2024-02-21,Wednesday,Lily Bunch,Bunches,2,18,36,Cash,San Francisco,Returning
+2024-07-04,Thursday,Daisy Basket,Baskets,1,20,20,Card,Boston,Returning
+2024-02-01,Thursday,Peony Bouquet,Bouquets,1,35,35,Cash,San Francisco,Returning
+2024-04-22,Monday,Daisy Basket,Baskets,2,20,40,Online,Dallas,Returning
+2024-02-25,Sunday,Carnation Bunch,Bunches,3,12,36,Card,Miami,Returning
+2024-11-15,Friday,Mixed Bouquet,Bouquets,1,28,28,Online,Atlanta,Returning
+2024-05-25,Saturday,Peony Bouquet,Bouquets,2,35,70,Card,San Francisco,Returning
+2024-12-21,Saturday,Mixed Bouquet,Bouquets,3,28,84,Cash,Houston,Returning
+2024-06-04,Tuesday,Carnation Bunch,Bunches,1,12,12,Card,Los Angeles,New
+2024-12-12,Thursday,Hydrangea Vase,Vases,2,33,66,Card,San Francisco,New
+2024-05-10,Friday,Lily Bunch,Bunches,4,18,72,Cash,Houston,Returning
+2024-09-26,Thursday,Hydrangea Vase,Vases,4,33,132,Cash,Boston,Returning
+2024-12-23,Monday,Orchid Basket,Baskets,3,40,120,Card,Seattle,New
+2024-04-24,Wednesday,Orchid Basket,Baskets,1,40,40,Card,Dallas,Returning
+2024-09-14,Saturday,Orchid Basket,Baskets,3,40,120,Card,Houston,Returning
+2024-05-04,Saturday,Daisy Basket,Baskets,1,20,20,Card,Seattle,Returning
+2024-11-08,Friday,Peony Bouquet,Bouquets,2,35,70,Online,Atlanta,Returning
+2024-12-13,Friday,Mixed Bouquet,Bouquets,3,28,84,Cash,Atlanta,Returning
+2024-12-15,Sunday,Peony Bouquet,Bouquets,1,35,35,Card,Miami,Returning
+2024-04-01,Monday,Rose Bouquet,Bouquets,1,25,25,Online,Dallas,Returning
+2024-08-04,Sunday,Daisy Basket,Baskets,4,20,80,Card,San Francisco,Returning
+2024-12-25,Wednesday,Carnation Bunch,Bunches,1,12,12,Online,Atlanta,Returning
+2024-12-15,Sunday,Mixed Bouquet,Bouquets,3,28,84,Card,Chicago,Returning
+2024-07-23,Tuesday,Hydrangea Vase,Vases,5,33,165,Online,Chicago,Returning
+2024-07-14,Sunday,Peony Bouquet,Bouquets,1,35,35,Card,Miami,Returning
+2024-12-15,Sunday,Daisy Basket,Baskets,5,20,100,Card,Los Angeles,New
+2024-08-18,Sunday,Mixed Bouquet,Bouquets,2,28,56,Card,Atlanta,Returning
+2024-05-24,Friday,Sunflower Vase,Vases,1,30,30,Card,Miami,Returning
+2024-02-03,Saturday,Tulip Bunch,Bunches,2,15,30,Online,Dallas,Returning
+2024-12-17,Tuesday,Carnation Bunch,Bunches,2,12,24,Online,Dallas,Returning
+2024-02-09,Friday,Daisy Basket,Baskets,3,20,60,Card,Houston,Returning
+2024-05-01,Wednesday,Tulip Bunch,Bunches,2,15,30,Online,Atlanta,New
+2024-08-05,Monday,Sunflower Vase,Vases,4,30,120,Cash,Atlanta,Returning
+2024-02-21,Wednesday,Hydrangea Vase,Vases,1,33,33,Cash,Seattle,Returning
+2024-09-02,Monday,Carnation Bunch,Bunches,1,12,12,Cash,Dallas,Returning
+2024-01-13,Saturday,Mixed Bouquet,Bouquets,2,28,56,Cash,New York,Returning
+2024-05-08,Wednesday,Sunflower Vase,Vases,2,30,60,Card,Seattle,Returning
+2024-02-27,Tuesday,Mixed Bouquet,Bouquets,2,28,56,Card,New York,New
+2024-06-26,Wednesday,Rose Bouquet,Bouquets,1,25,25,Online,Chicago,Returning
+2024-05-06,Monday,Carnation Bunch,Bunches,3,12,36,Card,New York,Returning
+2024-04-17,Wednesday,Daisy Basket,Baskets,1,20,20,Online,San Francisco,New
+2024-02-04,Sunday,Lily Bunch,Bunches,1,18,18,Card,San Francisco,Returning
+2024-02-21,Wednesday,Lily Bunch,Bunches,2,18,36,Card,Chicago,Returning
+2024-12-25,Wednesday,Rose Bouquet,Bouquets,2,25,50,Card,Miami,Returning
+2024-07-21,Sunday,Lily Bunch,Bunches,2,18,36,Cash,San Francisco,Returning
+2024-12-17,Tuesday,Hydrangea Vase,Vases,1,33,33,Card,Dallas,Returning
+2024-03-18,Monday,Tulip Bunch,Bunches,1,15,15,Card,Dallas,Returning
+2024-06-04,Tuesday,Daisy Basket,Baskets,1,20,20,Online,Houston,Returning
+2024-02-20,Tuesday,Hydrangea Vase,Vases,3,33,99,Card,Boston,Returning
+2024-02-11,Sunday,Orchid Basket,Baskets,2,40,80,Card,Miami,New
+2024-10-07,Monday,Carnation Bunch,Bunches,4,12,48,Card,New York,Returning
+2024-02-06,Tuesday,Carnation Bunch,Bunches,1,12,12,Card,Atlanta,Returning
+2024-05-13,Monday,Daisy Basket,Baskets,1,20,20,Online,New York,New
+2024-02-06,Tuesday,Sunflower Vase,Vases,1,30,30,Cash,Seattle,New
+2024-01-03,Wednesday,Hydrangea Vase,Vases,1,33,33,Online,Boston,Returning
+2024-10-23,Wednesday,Daisy Basket,Baskets,4,20,80,Card,Miami,Returning
+2024-05-24,Friday,Daisy Basket,Baskets,2,20,40,Online,San Francisco,Returning
+2024-02-12,Monday,Hydrangea Vase,Vases,3,33,99,Online,San Francisco,Returning
+2024-07-28,Sunday,Mixed Bouquet,Bouquets,4,28,112,Online,Chicago,Returning
+2024-05-20,Monday,Orchid Basket,Baskets,5,40,200,Card,Miami,Returning
+2024-03-21,Thursday,Hydrangea Vase,Vases,2,33,66,Card,Houston,Returning
+2024-12-19,Thursday,Hydrangea Vase,Vases,1,33,33,Online,Atlanta,Returning
+2024-02-18,Sunday,Daisy Basket,Baskets,2,20,40,Online,New York,New
+2024-05-25,Saturday,Mixed Bouquet,Bouquets,2,28,56,Online,Boston,Returning
+2024-03-25,Monday,Peony Bouquet,Bouquets,1,35,35,Online,New York,Returning
+2024-12-16,Monday,Rose Bouquet,Bouquets,1,25,25,Card,Houston,Returning
+2024-12-20,Friday,Rose Bouquet,Bouquets,1,25,25,Card,Seattle,Returning
+2024-05-27,Monday,Hydrangea Vase,Vases,1,33,33,Online,Seattle,New
+2024-02-28,Wednesday,Peony Bouquet,Bouquets,2,35,70,Card,Los Angeles,New
+2024-05-17,Friday,Hydrangea Vase,Vases,1,33,33,Online,Dallas,Returning
+2024-09-12,Thursday,Sunflower Vase,Vases,1,30,30,Card,New York,Returning
+2024-05-20,Monday,Rose Bouquet,Bouquets,3,25,75,Card,Boston,New
+2024-01-23,Tuesday,Rose Bouquet,Bouquets,3,25,75,Online,Chicago,Returning
+2024-12-27,Friday,Lily Bunch,Bunches,5,18,90,Cash,Seattle,Returning
+2024-02-19,Monday,Carnation Bunch,Bunches,5,12,60,Card,San Francisco,Returning
+2024-12-08,Sunday,Tulip Bunch,Bunches,2,15,30,Card,San Francisco,Returning
+2024-12-14,Saturday,Carnation Bunch,Bunches,3,12,36,Cash,Dallas,Returning
+2024-10-03,Thursday,Carnation Bunch,Bunches,2,12,24,Cash,Seattle,Returning
+2024-11-26,Tuesday,Tulip Bunch,Bunches,2,15,30,Card,Seattle,Returning
+2024-02-03,Saturday,Sunflower Vase,Vases,1,30,30,Card,Seattle,Returning
+2024-12-01,Sunday,Peony Bouquet,Bouquets,3,35,105,Card,New York,Returning
+2024-02-01,Thursday,Sunflower Vase,Vases,4,30,120,Cash,Miami,New
+2024-02-12,Monday,Daisy Basket,Baskets,3,20,60,Card,Seattle,Returning
+2024-09-22,Sunday,Orchid Basket,Baskets,2,40,80,Card,San Francisco,New
+2024-12-05,Thursday,Hydrangea Vase,Vases,1,33,33,Cash,Los Angeles,Returning
+2024-12-26,Thursday,Orchid Basket,Baskets,1,40,40,Cash,Houston,Returning
+2024-10-10,Thursday,Carnation Bunch,Bunches,2,12,24,Card,Boston,New
+2024-12-24,Tuesday,Daisy Basket,Baskets,2,20,40,Cash,San Francisco,Returning
+2024-05-27,Monday,Rose Bouquet,Bouquets,1,25,25,Online,Miami,New
+2024-02-21,Wednesday,Mixed Bouquet,Bouquets,1,28,28,Card,Chicago,Returning
+2024-10-19,Saturday,Lily Bunch,Bunches,1,18,18,Online,Boston,Returning
+2024-10-19,Saturday,Daisy Basket,Baskets,2,20,40,Card,Houston,Returning
+2024-05-28,Tuesday,Carnation Bunch,Bunches,2,12,24,Cash,Houston,Returning
+2024-03-21,Thursday,Lily Bunch,Bunches,1,18,18,Online,Atlanta,Returning
+2024-05-20,Monday,Carnation Bunch,Bunches,3,12,36,Cash,Miami,Returning
+2024-08-03,Saturday,Tulip Bunch,Bunches,2,15,30,Card,Chicago,Returning
+2024-05-15,Wednesday,Peony Bouquet,Bouquets,3,35,105,Online,Miami,Returning
+2024-02-11,Sunday,Hydrangea Vase,Vases,2,33,66,Online,Dallas,Returning
+2024-05-19,Sunday,Peony Bouquet,Bouquets,4,35,140,Online,San Francisco,Returning
+2024-03-13,Wednesday,Peony Bouquet,Bouquets,3,35,105,Card,Miami,Returning
+2024-04-13,Saturday,Peony Bouquet,Bouquets,2,35,70,Card,Miami,Returning
+2024-02-17,Saturday,Daisy Basket,Baskets,2,20,40,Card,Houston,New
+2024-02-21,Wednesday,Peony Bouquet,Bouquets,2,35,70,Cash,Dallas,Returning
+2024-11-11,Monday,Mixed Bouquet,Bouquets,4,28,112,Card,Seattle,Returning
+2024-12-14,Saturday,Sunflower Vase,Vases,5,30,150,Card,Dallas,Returning
+2024-12-10,Tuesday,Tulip Bunch,Bunches,3,15,45,Card,Atlanta,New
+2024-12-17,Tuesday,Hydrangea Vase,Vases,2,33,66,Cash,Los Angeles,New
+2024-07-16,Tuesday,Sunflower Vase,Vases,2,30,60,Card,San Francisco,New
+2024-12-22,Sunday,Tulip Bunch,Bunches,3,15,45,Cash,New York,Returning
+2024-12-12,Thursday,Orchid Basket,Baskets,3,40,120,Online,Houston,Returning
+2024-12-15,Sunday,Daisy Basket,Baskets,4,20,80,Online,Boston,New
+2024-09-18,Wednesday,Carnation Bunch,Bunches,1,12,12,Card,Boston,Returning
+2024-02-02,Friday,Lily Bunch,Bunches,1,18,18,Online,New York,Returning
+2024-12-27,Friday,Tulip Bunch,Bunches,1,15,15,Online,New York,New
+2024-10-04,Friday,Sunflower Vase,Vases,4,30,120,Card,Houston,New
+2024-02-28,Wednesday,Tulip Bunch,Bunches,3,15,45,Online,Atlanta,Returning
+2024-11-18,Monday,Rose Bouquet,Bouquets,4,25,100,Online,Boston,Returning
+2024-08-08,Thursday,Tulip Bunch,Bunches,2,15,30,Cash,Chicago,New
+2024-03-10,Sunday,Sunflower Vase,Vases,3,30,90,Cash,Chicago,New
+2024-11-24,Sunday,Daisy Basket,Baskets,1,20,20,Online,Chicago,Returning
+2024-03-20,Wednesday,Daisy Basket,Baskets,3,20,60,Cash,New York,Returning
+2024-12-08,Sunday,Lily Bunch,Bunches,2,18,36,Online,Chicago,New
+2024-03-11,Monday,Mixed Bouquet,Bouquets,1,28,28,Card,Miami,New
+2024-08-24,Saturday,Orchid Basket,Baskets,3,40,120,Online,Boston,New
+2024-06-02,Sunday,Lily Bunch,Bunches,2,18,36,Online,San Francisco,Returning
+2024-11-22,Friday,Orchid Basket,Baskets,2,40,80,Card,Houston,New
+2024-12-26,Thursday,Hydrangea Vase,Vases,2,33,66,Online,Dallas,Returning
+2024-02-16,Friday,Hydrangea Vase,Vases,2,33,66,Online,Atlanta,New
+2024-10-22,Tuesday,Sunflower Vase,Vases,1,30,30,Card,Houston,New
+2024-11-27,Wednesday,Peony Bouquet,Bouquets,1,35,35,Online,Miami,Returning
+2024-10-08,Tuesday,Rose Bouquet,Bouquets,3,25,75,Online,Los Angeles,Returning
+2024-02-13,Tuesday,Lily Bunch,Bunches,2,18,36,Card,Miami,Returning
+2024-03-03,Sunday,Rose Bouquet,Bouquets,1,25,25,Online,Los Angeles,Returning
+2024-02-21,Wednesday,Peony Bouquet,Bouquets,1,35,35,Online,Dallas,New
+2024-03-20,Wednesday,Sunflower Vase,Vases,5,30,150,Card,Miami,Returning
+2024-01-03,Wednesday,Sunflower Vase,Vases,2,30,60,Card,Boston,Returning
+2024-05-26,Sunday,Daisy Basket,Baskets,3,20,60,Online,San Francisco,New
+2024-11-22,Friday,Tulip Bunch,Bunches,5,15,75,Card,Seattle,Returning
+2024-01-23,Tuesday,Daisy Basket,Baskets,1,20,20,Online,San Francisco,New
+2024-12-10,Tuesday,Sunflower Vase,Vases,2,30,60,Cash,Boston,Returning
+2024-02-25,Sunday,Mixed Bouquet,Bouquets,2,28,56,Online,New York,Returning
+2024-02-01,Thursday,Daisy Basket,Baskets,2,20,40,Card,Chicago,Returning
+2024-05-28,Tuesday,Orchid Basket,Baskets,3,40,120,Cash,Houston,New
+2024-11-17,Sunday,Tulip Bunch,Bunches,2,15,30,Card,Dallas,New
+2024-11-23,Saturday,Sunflower Vase,Vases,3,30,90,Card,Los Angeles,Returning
+2024-12-25,Wednesday,Sunflower Vase,Vases,1,30,30,Online,San Francisco,Returning
+2024-08-16,Friday,Rose Bouquet,Bouquets,3,25,75,Online,San Francisco,Returning
+2024-02-26,Monday,Sunflower Vase,Vases,2,30,60,Online,Seattle,Returning
+2024-05-05,Sunday,Daisy Basket,Baskets,3,20,60,Card,Boston,Returning
+2024-05-26,Sunday,Daisy Basket,Baskets,1,20,20,Card,Houston,Returning
+2024-12-26,Thursday,Mixed Bouquet,Bouquets,4,28,112,Online,San Francisco,Returning
+2024-06-07,Friday,Tulip Bunch,Bunches,1,15,15,Online,Houston,New
+2024-08-22,Thursday,Peony Bouquet,Bouquets,1,35,35,Online,Los Angeles,New
+2024-05-04,Saturday,Tulip Bunch,Bunches,2,15,30,Card,Los Angeles,Returning
+2024-06-05,Wednesday,Carnation Bunch,Bunches,2,12,24,Cash,Los Angeles,Returning
+2024-02-22,Thursday,Peony Bouquet,Bouquets,1,35,35,Card,Houston,Returning
+2024-03-25,Monday,Hydrangea Vase,Vases,1,33,33,Online,Chicago,Returning
+2024-11-03,Sunday,Orchid Basket,Baskets,2,40,80,Online,Dallas,Returning
+2024-11-23,Saturday,Peony Bouquet,Bouquets,4,35,140,Card,Los Angeles,New
+2024-12-16,Monday,Orchid Basket,Baskets,3,40,120,Online,Boston,New
+2024-08-06,Tuesday,Tulip Bunch,Bunches,3,15,45,Card,San Francisco,Returning
+2024-12-14,Saturday,Rose Bouquet,Bouquets,1,25,25,Online,Miami,Returning
+2024-06-08,Saturday,Tulip Bunch,Bunches,4,15,60,Online,Seattle,New
+2024-05-05,Sunday,Mixed Bouquet,Bouquets,4,28,112,Card,Houston,Returning
+2024-02-14,Wednesday,Hydrangea Vase,Vases,1,33,33,Card,Seattle,Returning
+2024-06-01,Saturday,Daisy Basket,Baskets,1,20,20,Cash,Chicago,Returning
+2024-06-27,Thursday,Peony Bouquet,Bouquets,3,35,105,Card,Houston,New
+2024-05-23,Thursday,Mixed Bouquet,Bouquets,1,28,28,Online,Atlanta,Returning
+2024-12-05,Thursday,Hydrangea Vase,Vases,3,33,99,Online,Chicago,Returning
+2024-08-02,Friday,Orchid Basket,Baskets,1,40,40,Card,New York,New
+2024-05-02,Thursday,Daisy Basket,Baskets,3,20,60,Online,New York,Returning
+2024-12-07,Saturday,Daisy Basket,Baskets,3,20,60,Online,Miami,New
+2024-05-14,Tuesday,Orchid Basket,Baskets,2,40,80,Card,Seattle,Returning
+2024-05-04,Saturday,Orchid Basket,Baskets,5,40,200,Card,Dallas,Returning
+2024-02-26,Monday,Daisy Basket,Baskets,4,20,80,Online,Boston,Returning
+2024-06-25,Tuesday,Tulip Bunch,Bunches,5,15,75,Card,Seattle,Returning
+2024-05-23,Thursday,Lily Bunch,Bunches,1,18,18,Cash,Miami,Returning
+2024-07-16,Tuesday,Peony Bouquet,Bouquets,2,35,70,Online,Los Angeles,Returning
+2024-11-21,Thursday,Carnation Bunch,Bunches,2,12,24,Online,San Francisco,New
+2024-08-06,Tuesday,Mixed Bouquet,Bouquets,1,28,28,Cash,Houston,New
+2024-05-18,Saturday,Rose Bouquet,Bouquets,2,25,50,Online,Miami,Returning
+2024-08-12,Monday,Peony Bouquet,Bouquets,3,35,105,Card,New York,Returning
+2024-09-05,Thursday,Carnation Bunch,Bunches,2,12,24,Cash,Houston,Returning
+2024-03-12,Tuesday,Peony Bouquet,Bouquets,5,35,175,Cash,Dallas,New
+2024-03-02,Saturday,Mixed Bouquet,Bouquets,4,28,112,Card,Boston,Returning
+2024-05-15,Wednesday,Peony Bouquet,Bouquets,1,35,35,Online,Chicago,Returning
+2024-09-21,Saturday,Sunflower Vase,Vases,1,30,30,Cash,New York,New
+2024-07-10,Wednesday,Rose Bouquet,Bouquets,2,25,50,Card,Seattle,Returning
+2024-07-07,Sunday,Lily Bunch,Bunches,2,18,36,Cash,New York,Returning
+2024-05-09,Thursday,Carnation Bunch,Bunches,1,12,12,Card,Atlanta,Returning
+2024-12-07,Saturday,Orchid Basket,Baskets,5,40,200,Card,Los Angeles,Returning
+2024-11-18,Monday,Sunflower Vase,Vases,2,30,60,Card,Los Angeles,Returning
+2024-12-09,Monday,Carnation Bunch,Bunches,1,12,12,Card,Houston,New
+2024-07-26,Friday,Mixed Bouquet,Bouquets,4,28,112,Cash,Seattle,Returning
+2024-02-10,Saturday,Tulip Bunch,Bunches,1,15,15,Online,Boston,New
+2024-12-01,Sunday,Daisy Basket,Baskets,1,20,20,Card,New York,Returning
+2024-02-25,Sunday,Sunflower Vase,Vases,4,30,120,Online,Boston,Returning
+2024-08-15,Thursday,Daisy Basket,Baskets,1,20,20,Online,Los Angeles,Returning
+2024-02-06,Tuesday,Peony Bouquet,Bouquets,1,35,35,Card,Houston,Returning
+2024-02-09,Friday,Daisy Basket,Baskets,1,20,20,Card,Boston,Returning
+2024-08-16,Friday,Orchid Basket,Baskets,4,40,160,Card,Houston,Returning
+2024-06-04,Tuesday,Orchid Basket,Baskets,1,40,40,Card,Atlanta,Returning
+2024-05-28,Tuesday,Tulip Bunch,Bunches,1,15,15,Card,Dallas,Returning
+2024-01-06,Saturday,Sunflower Vase,Vases,2,30,60,Card,Chicago,New
+2024-02-19,Monday,Peony Bouquet,Bouquets,3,35,105,Online,Dallas,New
+2024-05-07,Tuesday,Orchid Basket,Baskets,1,40,40,Card,New York,Returning
+2024-05-21,Tuesday,Peony Bouquet,Bouquets,3,35,105,Card,New York,Returning
+2024-03-23,Saturday,Peony Bouquet,Bouquets,2,35,70,Card,Los Angeles,Returning
+2024-12-26,Thursday,Sunflower Vase,Vases,2,30,60,Card,Chicago,Returning
+2024-05-26,Sunday,Orchid Basket,Baskets,2,40,80,Cash,New York,New
+2024-12-20,Friday,Daisy Basket,Baskets,3,20,60,Cash,Atlanta,Returning
+2024-05-17,Friday,Orchid Basket,Baskets,2,40,80,Cash,Dallas,New
+2024-12-15,Sunday,Lily Bunch,Bunches,5,18,90,Online,Boston,New
+2024-11-04,Monday,Tulip Bunch,Bunches,1,15,15,Card,Atlanta,Returning
+2024-02-27,Tuesday,Carnation Bunch,Bunches,2,12,24,Card,New York,Returning
+2024-08-24,Saturday,Hydrangea Vase,Vases,1,33,33,Online,San Francisco,New
+2024-02-20,Tuesday,Daisy Basket,Baskets,1,20,20,Card,Boston,Returning
+2024-06-27,Thursday,Hydrangea Vase,Vases,1,33,33,Online,Boston,Returning
+2024-10-22,Tuesday,Carnation Bunch,Bunches,5,12,60,Card,Dallas,Returning
+2024-02-04,Sunday,Hydrangea Vase,Vases,2,33,66,Card,New York,Returning
+2024-02-12,Monday,Daisy Basket,Baskets,3,20,60,Online,Seattle,Returning
+2024-09-26,Thursday,Rose Bouquet,Bouquets,1,25,25,Cash,New York,Returning
+2024-12-24,Tuesday,Carnation Bunch,Bunches,4,12,48,Online,Dallas,Returning
+2024-03-25,Monday,Lily Bunch,Bunches,2,18,36,Card,Chicago,New
+2024-05-15,Wednesday,Orchid Basket,Baskets,1,40,40,Card,San Francisco,New
+2024-05-03,Friday,Orchid Basket,Baskets,1,40,40,Card,Los Angeles,New
+2024-04-16,Tuesday,Orchid Basket,Baskets,1,40,40,Card,Miami,Returning
+2024-05-06,Monday,Daisy Basket,Baskets,3,20,60,Card,Houston,Returning
+2024-02-11,Sunday,Mixed Bouquet,Bouquets,4,28,112,Online,Chicago,Returning
+2024-01-03,Wednesday,Mixed Bouquet,Bouquets,1,28,28,Cash,Atlanta,Returning
+2024-11-27,Wednesday,Sunflower Vase,Vases,3,30,90,Card,Miami,Returning
+2024-04-26,Friday,Carnation Bunch,Bunches,3,12,36,Online,Atlanta,Returning
+2024-06-25,Tuesday,Hydrangea Vase,Vases,3,33,99,Card,San Francisco,New
+2024-01-03,Wednesday,Lily Bunch,Bunches,4,18,72,Online,Boston,Returning
+2024-12-11,Wednesday,Tulip Bunch,Bunches,1,15,15,Online,Miami,New
+2024-02-11,Sunday,Rose Bouquet,Bouquets,3,25,75,Online,Houston,Returning
+2024-09-06,Friday,Mixed Bouquet,Bouquets,2,28,56,Card,Chicago,New
+2024-07-23,Tuesday,Tulip Bunch,Bunches,3,15,45,Card,Atlanta,Returning
+2024-11-23,Saturday,Mixed Bouquet,Bouquets,5,28,140,Card,Chicago,Returning
+2024-05-17,Friday,Tulip Bunch,Bunches,1,15,15,Cash,Chicago,New
+2024-04-23,Tuesday,Rose Bouquet,Bouquets,2,25,50,Cash,Dallas,New
+2024-02-16,Friday,Mixed Bouquet,Bouquets,1,28,28,Card,Los Angeles,Returning
+2024-05-28,Tuesday,Peony Bouquet,Bouquets,2,35,70,Online,Houston,New
+2024-02-22,Thursday,Orchid Basket,Baskets,2,40,80,Online,Chicago,Returning
+2024-01-09,Tuesday,Rose Bouquet,Bouquets,3,25,75,Cash,Dallas,New
+2024-04-07,Sunday,Sunflower Vase,Vases,3,30,90,Card,Boston,Returning
+2024-07-20,Saturday,Hydrangea Vase,Vases,1,33,33,Cash,Boston,Returning
+2024-06-11,Tuesday,Rose Bouquet,Bouquets,1,25,25,Card,Los Angeles,New
+2024-04-27,Saturday,Mixed Bouquet,Bouquets,3,28,84,Card,Los Angeles,New
+2024-02-17,Saturday,Sunflower Vase,Vases,2,30,60,Card,San Francisco,Returning
+2024-10-28,Monday,Daisy Basket,Baskets,1,20,20,Card,Los Angeles,New
+2024-12-15,Sunday,Rose Bouquet,Bouquets,1,25,25,Card,Seattle,New
+2024-12-07,Saturday,Rose Bouquet,Bouquets,2,25,50,Card,Dallas,New
+2024-02-19,Monday,Lily Bunch,Bunches,2,18,36,Card,Boston,Returning
+2024-03-15,Friday,Carnation Bunch,Bunches,3,12,36,Online,Dallas,Returning
+2024-04-22,Monday,Tulip Bunch,Bunches,3,15,45,Online,Boston,Returning
+2024-05-20,Monday,Orchid Basket,Baskets,5,40,200,Online,Los Angeles,Returning
+2024-12-20,Friday,Mixed Bouquet,Bouquets,1,28,28,Online,San Francisco,Returning
+2024-02-25,Sunday,Mixed Bouquet,Bouquets,5,28,140,Card,Houston,Returning
+2024-04-19,Friday,Orchid Basket,Baskets,1,40,40,Card,Atlanta,New
+2024-05-18,Saturday,Mixed Bouquet,Bouquets,2,28,56,Online,Houston,New
+2024-05-05,Sunday,Sunflower Vase,Vases,1,30,30,Card,Atlanta,Returning
+2024-05-08,Wednesday,Hydrangea Vase,Vases,1,33,33,Card,Boston,Returning
+2024-05-06,Monday,Lily Bunch,Bunches,1,18,18,Online,Chicago,Returning
+2024-12-23,Monday,Mixed Bouquet,Bouquets,4,28,112,Card,Los Angeles,Returning
+2024-03-25,Monday,Carnation Bunch,Bunches,2,12,24,Card,Miami,Returning
+2024-12-12,Thursday,Orchid Basket,Baskets,2,40,80,Card,Los Angeles,Returning
+2024-05-14,Tuesday,Lily Bunch,Bunches,2,18,36,Card,Atlanta,Returning
+2024-01-09,Tuesday,Lily Bunch,Bunches,2,18,36,Online,San Francisco,Returning
+2024-07-08,Monday,Sunflower Vase,Vases,2,30,60,Card,Houston,Returning
+2024-05-24,Friday,Tulip Bunch,Bunches,2,15,30,Online,Los Angeles,Returning
+2024-09-14,Saturday,Daisy Basket,Baskets,2,20,40,Cash,San Francisco,Returning
+2024-05-01,Wednesday,Sunflower Vase,Vases,3,30,90,Card,Houston,Returning
+2024-04-20,Saturday,Tulip Bunch,Bunches,4,15,60,Card,Houston,Returning
+2024-12-27,Friday,Rose Bouquet,Bouquets,3,25,75,Card,New York,Returning
+2024-08-11,Sunday,Sunflower Vase,Vases,2,30,60,Online,Houston,New
+2024-12-25,Wednesday,Mixed Bouquet,Bouquets,1,28,28,Card,San Francisco,Returning
+2024-02-17,Saturday,Sunflower Vase,Vases,3,30,90,Online,Dallas,Returning
+2024-07-02,Tuesday,Mixed Bouquet,Bouquets,1,28,28,Online,Chicago,New
+2024-09-16,Monday,Hydrangea Vase,Vases,1,33,33,Card,Boston,New
+2024-02-24,Saturday,Carnation Bunch,Bunches,1,12,12,Online,New York,Returning
+2024-12-08,Sunday,Mixed Bouquet,Bouquets,2,28,56,Online,Houston,New
+2024-08-05,Monday,Sunflower Vase,Vases,2,30,60,Online,Chicago,Returning
+2024-01-16,Tuesday,Carnation Bunch,Bunches,2,12,24,Cash,Houston,Returning
+2024-12-28,Saturday,Lily Bunch,Bunches,3,18,54,Online,Atlanta,New
+2024-10-01,Tuesday,Mixed Bouquet,Bouquets,4,28,112,Cash,Atlanta,New
+2024-03-07,Thursday,Sunflower Vase,Vases,4,30,120,Online,Atlanta,Returning
+2024-06-07,Friday,Mixed Bouquet,Bouquets,4,28,112,Card,Chicago,Returning
+2024-02-09,Friday,Daisy Basket,Baskets,1,20,20,Cash,Houston,Returning
+2024-05-09,Thursday,Tulip Bunch,Bunches,2,15,30,Online,Los Angeles,Returning
+2024-04-06,Saturday,Rose Bouquet,Bouquets,2,25,50,Card,New York,Returning
+2024-01-01,Monday,Daisy Basket,Baskets,5,20,100,Online,Miami,Returning
+2024-02-20,Tuesday,Rose Bouquet,Bouquets,2,25,50,Card,Seattle,Returning
+2024-08-10,Saturday,Rose Bouquet,Bouquets,2,25,50,Card,New York,Returning
+2024-05-18,Saturday,Daisy Basket,Baskets,1,20,20,Card,New York,Returning
+2024-02-27,Tuesday,Rose Bouquet,Bouquets,5,25,125,Online,New York,Returning
+2024-05-10,Friday,Orchid Basket,Baskets,3,40,120,Online,Seattle,Returning
+2024-07-16,Tuesday,Peony Bouquet,Bouquets,2,35,70,Card,Dallas,Returning
+2024-12-24,Tuesday,Peony Bouquet,Bouquets,2,35,70,Cash,Los Angeles,Returning
+2024-05-16,Thursday,Tulip Bunch,Bunches,1,15,15,Card,Dallas,New
+2024-02-07,Wednesday,Peony Bouquet,Bouquets,3,35,105,Card,Los Angeles,Returning
+2024-05-09,Thursday,Carnation Bunch,Bunches,1,12,12,Card,Boston,Returning
+2024-05-05,Sunday,Lily Bunch,Bunches,2,18,36,Online,New York,Returning
+2024-12-11,Wednesday,Carnation Bunch,Bunches,3,12,36,Online,Miami,Returning
+2024-12-25,Wednesday,Tulip Bunch,Bunches,1,15,15,Online,New York,New
+2024-02-18,Sunday,Lily Bunch,Bunches,3,18,54,Cash,New York,Returning
+2024-12-10,Tuesday,Carnation Bunch,Bunches,2,12,24,Online,New York,New
+2024-12-04,Wednesday,Peony Bouquet,Bouquets,4,35,140,Card,Los Angeles,Returning
+2024-02-12,Monday,Tulip Bunch,Bunches,3,15,45,Cash,Atlanta,Returning
+2024-06-04,Tuesday,Rose Bouquet,Bouquets,5,25,125,Online,Los Angeles,New
+2024-05-18,Saturday,Orchid Basket,Baskets,3,40,120,Card,Seattle,Returning
+2024-02-24,Saturday,Carnation Bunch,Bunches,1,12,12,Card,New York,Returning
+2024-04-07,Sunday,Lily Bunch,Bunches,1,18,18,Online,New York,Returning
+2024-02-11,Sunday,Lily Bunch,Bunches,3,18,54,Cash,Dallas,New
+2024-07-02,Tuesday,Orchid Basket,Baskets,2,40,80,Online,Dallas,New
+2024-07-07,Sunday,Daisy Basket,Baskets,2,20,40,Online,Seattle,Returning
+2024-12-21,Saturday,Hydrangea Vase,Vases,2,33,66,Card,Boston,Returning
+2024-02-19,Monday,Daisy Basket,Baskets,1,20,20,Cash,Miami,Returning
+2024-04-19,Friday,Lily Bunch,Bunches,1,18,18,Online,Boston,Returning
+2024-02-07,Wednesday,Tulip Bunch,Bunches,1,15,15,Card,Seattle,Returning
+2024-10-17,Thursday,Daisy Basket,Baskets,2,20,40,Card,Los Angeles,Returning
+2024-04-22,Monday,Sunflower Vase,Vases,1,30,30,Cash,Boston,New
+2024-10-03,Thursday,Orchid Basket,Baskets,3,40,120,Card,San Francisco,Returning
+2024-12-28,Saturday,Carnation Bunch,Bunches,2,12,24,Cash,Boston,Returning
+2024-11-25,Monday,Hydrangea Vase,Vases,2,33,66,Online,Houston,New
+2024-12-20,Friday,Lily Bunch,Bunches,3,18,54,Card,Miami,New
+2024-06-06,Thursday,Orchid Basket,Baskets,1,40,40,Online,Chicago,Returning
+2024-01-07,Sunday,Mixed Bouquet,Bouquets,2,28,56,Cash,Atlanta,Returning
+2024-10-10,Thursday,Carnation Bunch,Bunches,1,12,12,Online,Los Angeles,New
+2024-05-08,Wednesday,Carnation Bunch,Bunches,1,12,12,Card,Boston,Returning
+2024-10-22,Tuesday,Mixed Bouquet,Bouquets,1,28,28,Card,Chicago,New
+2024-12-21,Saturday,Orchid Basket,Baskets,2,40,80,Cash,Chicago,Returning
